@@ -6,7 +6,7 @@ temporal trend classification, and the clustering and model-specification
 sensitivity analyses added during peer review.
 
 This repository is released so the analysis can be independently rerun,
-audited, and reused. It accompanies manuscript JOA-D-26-01834 (under review).
+audited, and reused.
 
 ## Quick start
 

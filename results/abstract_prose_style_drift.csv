@@ -1,0 +1,6 @@
+feature,share_2005_2009_pct,share_2021_2025_pct,slope_pct_per_year,ci95,p_value,r_squared
+Structured abstract headings,0.09,97.51,6.9413,"[5.0697, 8.8128]",2.61e-07,0.76
+Reports 95% confidence interval,2.76,17.92,1.0593,"[0.854, 1.2645]",1.5e-09,0.86
+Reports explicit P value,18.08,61.43,2.9291,"[2.505, 3.3531]",1.05e-11,0.917
+Reports odds/hazard ratio,38.85,66.82,1.8646,"[1.4441, 2.2851]",1.73e-08,0.819
+Mean abstract length (words),140.9,277.3,9.4906,"[7.3409, 11.6403]",1.85e-08,0.818

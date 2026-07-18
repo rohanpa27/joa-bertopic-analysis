@@ -1,0 +1,10 @@
+config,n_neighbors,min_cluster_size,seed,note,n_topics,noise_pct,silhouette_in_umap_space,ARI_vs_published
+nn10_mcs20_seed42,10,20,42,published configuration,83,41.01,0.4066,1.0
+nn10_mcs20_seed7,10,20,7,"published configuration, alternate seed",82,41.79,0.4189,0.5166
+nn10_mcs20_seed2024,10,20,2024,"published configuration, alternate seed",88,43.4,0.4395,0.5121
+nn5_mcs20_seed42,5,20,42,lower n_neighbors (noise-minimizing),105,32.25,0.4269,0.2511
+nn5_mcs15_seed42,5,15,42,"lower n_neighbors, smaller clusters",148,34.13,0.4448,0.2415
+nn5_mcs30_seed42,5,30,42,"lower n_neighbors, larger clusters",68,32.32,0.4516,0.2967
+nn15_mcs20_seed42,15,20,42,higher n_neighbors,73,46.33,0.4196,0.4659
+nn10_mcs15_seed42,10,15,42,smaller minimum cluster size,119,44.01,0.4284,0.8169
+nn10_mcs30_seed42,10,30,42,larger minimum cluster size,4,0.58,-0.058,0.0052

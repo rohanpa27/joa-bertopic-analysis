@@ -1,0 +1,30 @@
+pmid,year,pub_types,abstract_words,exclusion_reason
+15991136,2005,Journal Article,42,abstract <50 words
+15991122,2005,Comment; Journal Article,170,publication type
+15991132,2005,Comment; Journal Article; Review,118,publication type
+15991135,2005,Comment; Journal Article,78,publication type
+16841415,2006,Comment; Journal Article,131,publication type
+16781445,2006,"Journal Article; Research Support, Non-U.S. Gov't; Comment",136,publication type
+16841416,2006,Comment; Journal Article,31,publication type
+16781422,2006,Comment; Journal Article,80,publication type
+16781435,2006,Journal Article; Comment,118,publication type
+16781425,2006,"Comment; Journal Article; Research Support, Non-U.S. Gov't",121,publication type
+16950048,2006,Case Reports; Journal Article,33,abstract <50 words
+17570292,2007,Case Reports; Journal Article,15,abstract <50 words
+18078898,2007,Case Reports; Journal Article,38,abstract <50 words
+18534388,2009,Journal Article; Retracted Publication,132,publication type
+21168304,2011,Case Reports; Journal Article,37,abstract <50 words
+23142445,2012,Journal Article,33,abstract <50 words
+21889872,2012,Case Reports; Journal Article,29,abstract <50 words
+21723086,2012,Case Reports; Journal Article,34,abstract <50 words
+24768546,2014,Journal Article,35,abstract <50 words
+28318869,2017,Journal Article,42,abstract <50 words
+28578846,2017,Retraction Notice; Journal Article; Retracted Publication,35,publication type
+27919579,2017,Journal Article; Published Erratum,261,publication type
+30316623,2018,Retraction Notice; Journal Article; Retracted Publication,35,publication type
+31003783,2019,Journal Article,38,abstract <50 words
+35314285,2022,Editorial,21,publication type
+34968649,2022,Journal Article; Retracted Publication,254,publication type
+37926221,2024,Editorial,281,publication type
+40731229,2025,Published Erratum,304,publication type
+39426445,2025,Journal Article; Review,30,abstract <50 words

@@ -1,0 +1,9 @@
+theme,n_configs,modal_direction,pct_configs_agreeing,median_slope
+Periprosthetic joint infection,8,increase,100.0,0.4269
+Patient-reported outcome measures,8,increase,100.0,0.2087
+Machine learning / AI,8,increase,100.0,0.094
+Tranexamic acid / blood management,8,no significant change,100.0,0.0086
+Ceramic bearings,5,decrease,100.0,-0.1002
+Case reports of complications,6,decrease,100.0,-0.3335
+Polyethylene wear / osteolysis,8,decrease,100.0,-0.6262
+Acetabular cup orientation,8,decrease,100.0,-0.7259

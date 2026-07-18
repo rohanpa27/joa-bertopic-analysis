@@ -1,0 +1,8 @@
+signal,n_documents,share_2005_2009_pct,share_2021_2025_pct,slope_pct_per_year,ci95,p_value,r_squared
+Systematic reviews and meta-analyses,394,0.62,5.5,0.3062,"[0.247, 0.3653]",1.42e-09,0.861
+Patient-reported outcome measures,430,0.0,8.06,0.5333,"[0.4162, 0.6503]",1.12e-08,0.827
+Comparative/observational study indexing,5140,33.36,59.39,1.5955,"[1.1386, 2.0524]",6.24e-07,0.738
+Randomized controlled trials,611,6.97,4.63,-0.1672,"[-0.2739, -0.0604]",0.00396,0.361
+Case reports,385,14.41,0.03,-1.0145,"[-1.3483, -0.6807]",4.21e-06,0.68
+Artificial intelligence / machine learning,93,0.0,2.3,0.1391,"[0.0667, 0.2114]",0.000727,0.46
+Periprosthetic joint infection,1069,5.48,13.87,0.4991,"[0.3539, 0.6442]",7.76e-07,0.732

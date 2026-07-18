@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+*.npy
+*.safetensors
+data/raw/
+data/processed/
+data/embeddings/
+outputs/models/
+.env
+.env.local

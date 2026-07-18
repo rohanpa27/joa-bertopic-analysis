@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software or these data, please cite the article below."
+title: "BERTopic analysis of The Journal of Arthroplasty, 2005-2026"
+abstract: >-
+  Analysis code and derived results for a transformer-based topic model of
+  10,597 Journal of Arthroplasty abstracts, including clustering sensitivity
+  analyses and corrected temporal trend estimates.
+license: MIT
+authors:
+  - family-names: Phadke
+    given-names: Rohan A.
+  - family-names: Salman
+    given-names: Samer G.
+  - family-names: Burnett
+    given-names: James
+  - family-names: Anand
+    given-names: Krishna
+  - family-names: Azua
+    given-names: Eric
+  - family-names: Walsh
+    given-names: Jonathan
+keywords:
+  - arthroplasty
+  - topic modeling
+  - BERTopic
+  - natural language processing
+  - bibliometrics

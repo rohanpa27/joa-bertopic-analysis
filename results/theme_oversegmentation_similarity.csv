@@ -1,0 +1,5 @@
+theme,n_clusters,max_cosine_centered,max_cosine_ctfidf,max_keyword_jaccard,clusters
+PJI,3,0.5491,0.5676,0.2121,Periprosthetic Joint Infection Diagnosis and Treatment; Periprosthetic Joint Infection Diagnosis and Treatment (Odds); Periprosthetic Joint Infection Diagnosis and Treatment (Synovial)
+PROMs,2,0.4726,0.7519,0.3333,KOOS and Knee-Specific PROMs; KOOS and Knee-Specific PROMs (Expectations)
+Medicare,4,0.8645,0.7659,0.4286,Medicare Reimbursement and Bundled Payments; Medicare Reimbursement and Bundled Payments (Costs); Medicare Reimbursement and Bundled Payments (Proms); Medicare Reimbursement and Bundled Payments (Cms)
+Survivorship,2,-0.0688,0.6287,0.1765,THA Survivorship and Long-Term Aseptic Loosening; Registry-Based Revision Risk and Implant Survivorship

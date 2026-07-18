@@ -1,0 +1,2 @@
+journal,n_documents,n_topics,noise_pct,coherence_npmi,diversity,silhouette_score,median_topic_size,min_topic_size,max_topic_size
+JOA,10597,83,41.01,0.0944,0.6735,-0.009,43,20,365

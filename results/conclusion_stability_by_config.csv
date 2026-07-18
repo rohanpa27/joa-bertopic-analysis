@@ -1,0 +1,60 @@
+config,theme,n_clusters,n_documents,slope_pct_per_year,p_value,direction
+nn10_mcs20_seed42,Periprosthetic joint infection,5,736,0.4397,1.76e-07,increase
+nn10_mcs20_seed42,Tranexamic acid / blood management,3,391,0.0378,0.482,no significant change
+nn10_mcs20_seed42,Machine learning / AI,2,77,0.0904,8.83e-05,increase
+nn10_mcs20_seed42,Case reports of complications,1,125,-0.3472,2.51e-05,decrease
+nn10_mcs20_seed42,Patient-reported outcome measures,2,269,0.2296,1.85e-08,increase
+nn10_mcs20_seed42,Polyethylene wear / osteolysis,5,318,-0.595,3.61e-09,decrease
+nn10_mcs20_seed42,Acetabular cup orientation,5,717,-1.2129,1.2e-11,decrease
+nn10_mcs20_seed7,Periprosthetic joint infection,7,756,0.4662,2.87e-08,increase
+nn10_mcs20_seed7,Tranexamic acid / blood management,3,131,-0.0308,0.393,no significant change
+nn10_mcs20_seed7,Machine learning / AI,2,90,0.0791,0.000136,increase
+nn10_mcs20_seed7,Patient-reported outcome measures,1,261,0.2257,1.96e-09,increase
+nn10_mcs20_seed7,Polyethylene wear / osteolysis,5,452,-0.7205,1.27e-10,decrease
+nn10_mcs20_seed7,Case reports of complications,1,120,-0.3337,3.25e-05,decrease
+nn10_mcs20_seed7,Acetabular cup orientation,6,596,-1.0193,1.16e-11,decrease
+nn10_mcs20_seed2024,Periprosthetic joint infection,8,843,0.3513,1.08e-06,increase
+nn10_mcs20_seed2024,Machine learning / AI,3,134,0.105,0.00105,increase
+nn10_mcs20_seed2024,Tranexamic acid / blood management,3,393,0.0632,0.258,no significant change
+nn10_mcs20_seed2024,Patient-reported outcome measures,2,162,0.1556,6.22e-08,increase
+nn10_mcs20_seed2024,Acetabular cup orientation,4,263,-0.2899,5.71e-07,decrease
+nn10_mcs20_seed2024,Polyethylene wear / osteolysis,4,380,-0.5266,1.48e-11,decrease
+nn10_mcs20_seed2024,Case reports of complications,1,119,-0.3332,3.61e-05,decrease
+nn10_mcs20_seed2024,Ceramic bearings,3,118,-0.2067,2.94e-05,decrease
+nn5_mcs20_seed42,Periprosthetic joint infection,11,1099,0.4669,2.16e-06,increase
+nn5_mcs20_seed42,Machine learning / AI,3,131,0.1328,0.000114,increase
+nn5_mcs20_seed42,Tranexamic acid / blood management,2,85,-0.0213,0.511,no significant change
+nn5_mcs20_seed42,Patient-reported outcome measures,1,310,0.2716,6.56e-10,increase
+nn5_mcs20_seed42,Polyethylene wear / osteolysis,4,468,-0.6601,2.11e-11,decrease
+nn5_mcs20_seed42,Ceramic bearings,1,41,-0.1002,0.000996,decrease
+nn5_mcs20_seed42,Case reports of complications,1,47,-0.119,0.00128,decrease
+nn5_mcs20_seed42,Acetabular cup orientation,5,450,-0.524,3.03e-10,decrease
+nn5_mcs15_seed42,Periprosthetic joint infection,13,822,0.2414,0.000854,increase
+nn5_mcs15_seed42,Machine learning / AI,3,131,0.1328,0.000114,increase
+nn5_mcs15_seed42,Tranexamic acid / blood management,4,118,-0.0286,0.393,no significant change
+nn5_mcs15_seed42,Patient-reported outcome measures,5,134,0.1229,3.15e-06,increase
+nn5_mcs15_seed42,Polyethylene wear / osteolysis,5,467,-0.6575,1.51e-09,decrease
+nn5_mcs15_seed42,Ceramic bearings,2,58,-0.1206,0.00113,decrease
+nn5_mcs15_seed42,Acetabular cup orientation,5,364,-0.472,4.53e-10,decrease
+nn5_mcs30_seed42,Periprosthetic joint infection,5,980,0.6441,1.6e-08,increase
+nn5_mcs30_seed42,Machine learning / AI,2,86,0.0823,2.73e-05,increase
+nn5_mcs30_seed42,Tranexamic acid / blood management,1,476,0.054,0.277,no significant change
+nn5_mcs30_seed42,Patient-reported outcome measures,1,350,0.2926,8.16e-10,increase
+nn5_mcs30_seed42,Case reports of complications,1,199,-0.5202,4.17e-05,decrease
+nn5_mcs30_seed42,Polyethylene wear / osteolysis,4,626,-1.0802,3.27e-08,decrease
+nn5_mcs30_seed42,Acetabular cup orientation,4,523,-0.736,8.51e-12,decrease
+nn15_mcs20_seed42,Periprosthetic joint infection,6,666,0.4141,3.56e-07,increase
+nn15_mcs20_seed42,Tranexamic acid / blood management,3,380,0.0446,0.413,no significant change
+nn15_mcs20_seed42,Machine learning / AI,3,100,0.0977,0.00024,increase
+nn15_mcs20_seed42,Patient-reported outcome measures,1,206,0.1917,1.85e-08,increase
+nn15_mcs20_seed42,Polyethylene wear / osteolysis,4,413,-0.5846,4.35e-09,decrease
+nn15_mcs20_seed42,Acetabular cup orientation,5,486,-0.7158,7.12e-09,decrease
+nn15_mcs20_seed42,Ceramic bearings,1,34,-0.0567,6.94e-06,decrease
+nn10_mcs15_seed42,Periprosthetic joint infection,8,821,0.3859,1.31e-07,increase
+nn10_mcs15_seed42,Tranexamic acid / blood management,5,128,-0.0206,0.58,no significant change
+nn10_mcs15_seed42,Machine learning / AI,2,77,0.0904,8.83e-05,increase
+nn10_mcs15_seed42,Polyethylene wear / osteolysis,6,280,-0.4903,2.36e-10,decrease
+nn10_mcs15_seed42,Case reports of complications,1,40,-0.1259,0.000531,decrease
+nn10_mcs15_seed42,Acetabular cup orientation,6,631,-0.9704,4.09e-13,decrease
+nn10_mcs15_seed42,Patient-reported outcome measures,3,158,0.1454,3.29e-06,increase
+nn10_mcs15_seed42,Ceramic bearings,1,31,-0.0806,0.00111,decrease

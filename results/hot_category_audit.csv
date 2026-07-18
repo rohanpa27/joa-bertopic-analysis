@@ -1,0 +1,84 @@
+topic_id,n_documents,slope,intercept,r_squared,p_value,mean_pct,peak_year,peak_count,recent_5yr_pct,early_5yr_pct,p_adj,trend_class,topic_name,topic_count,clinical_label,recent10yr_share
+4,253,0.214546,-430.4254,0.8504,0.0,1.992,2025,38,4.1835,0.315,0.0,Emerging,4_mcid_koos_promis_physical,253,KOOS and Knee-Specific PROMs,0.8300395256916996
+6,215,0.185884,-373.0441,0.7331,0.0,1.6056,2020,28,3.0279,0.1601,0.0,Emerging,6_ci_95 ci_odds_day,215,Observational Study Design and Statistical Methods,0.8604651162790697
+3,260,0.167971,-336.4152,0.7883,0.0,2.1309,2025,28,3.6139,0.636,0.0,Emerging,3_stage_infection_pji_exchange,260,Periprosthetic Joint Infection Diagnosis and Treatment,0.7846153846153846
+7,200,0.148132,-296.9573,0.6367,9e-06,1.6019,2025,32,2.8309,0.2309,5e-05,Emerging,7_meta_systematic_meta analysis_systematic review,200,Systematic Reviews and Meta-Analyses,0.775
+5,251,0.13776,-275.6004,0.5387,0.000101,2.0546,2018,30,3.0034,0.6686,0.000399,Emerging,5_odds_infection_increased risk_pji,251,Periprosthetic Joint Infection Diagnosis and Treatment (Odds),0.7450199203187251
+10,147,0.072217,-144.3259,0.6053,2e-05,1.2272,2021,16,1.6796,0.6664,9.8e-05,Emerging,10_survivorship_free_loosening_aseptic,147,Aseptic Loosening of Hip and Knee Implants,0.7619047619047619
+15,112,0.06704,-134.2523,0.3968,0.001678,0.8669,2025,16,1.0102,0.2353,0.004642,Emerging,15_medicare_reimbursement_care_hospital,112,Medicare Reimbursement and Bundled Payments,0.75
+28,65,0.066697,-133.9378,0.6465,7e-06,0.4899,2026,12,1.1238,0.0781,4.5e-05,Emerging,28_proms_patient reported_medicare_completion,65,Medicare Reimbursement and Bundled Payments (Proms),0.8615384615384616
+35,54,0.064597,-129.7996,0.6414,8e-06,0.3954,2024,10,1.1619,0.0,4.7e-05,Emerging,35_hr_revision risk_registry_risk revision,54,Registry-Based Revision Risk and Implant Survivorship,0.9259259259259259
+9,189,0.064583,-128.5471,0.2625,0.014779,1.6191,2020,18,2.0084,1.0898,0.026666,Emerging,9_synovial_pji_crp_diagnostic,189,Periprosthetic Joint Infection Diagnosis and Treatment (Synovial),0.7513227513227513
+29,62,0.060617,-121.7136,0.6419,7e-06,0.4606,2023,10,0.9433,0.0,4.5e-05,Emerging,29_machine learning_machine_learning_models,62,Machine Learning Prediction of Arthroplasty Outcomes,0.8870967741935484
+36,52,0.052326,-105.086,0.7446,0.0,0.3767,2025,8,0.908,0.0,0.0,Emerging,36_fractures_fracture_orif_stage,52,Periprosthetic Fracture Treatment and Fixation,0.8846153846153846
+31,61,0.049528,-99.3251,0.5102,0.000188,0.4982,2023,10,1.0272,0.1566,0.000657,Emerging,31_iliopsoas_fusion_lumbar_dislocation,61,Hip-Spine Syndrome and Lumbar Fusion After THA,0.819672131147541
+45,41,0.046474,-93.3734,0.803,0.0,0.2954,2025,8,0.7761,0.0,0.0,Emerging,45_daa_anterior_posterior_da,41,Direct Anterior Approach Total Hip Arthroplasty,0.926829268292683
+60,32,0.046161,-92.8074,0.5099,0.00019,0.2308,2024,8,0.8471,0.0,0.000657,Emerging,60_odds_matched_bariatric surgery_year years,32,Bariatric Surgery Prior to Joint Arthroplasty,0.96875
+27,67,0.041581,-83.2938,0.3527,0.003567,0.5122,2017,10,0.6047,0.1584,0.008224,Emerging,27_costs_care_medicare_cost,67,Medicare Reimbursement and Bundled Payments (Costs),0.8208955223880597
+61,32,0.039518,-79.4196,0.4245,0.001021,0.2284,2024,10,0.7442,0.0,0.003027,Emerging,61_fragility_rcts_iqr_consensus,32,Clinical Trial Quality and Fragility Index in Arthroplasty,0.96875
+46,41,0.034516,-69.2667,0.4555,0.000569,0.3003,2018,7,0.4427,0.0,0.001816,Emerging,46_survivorship_survival_ci_radiographic,41,Radiographic Implant Survival and Loosening Assessment,0.926829268292683
+48,41,0.032349,-64.8793,0.3673,0.002793,0.3202,2019,6,0.5025,0.0781,0.006818,Emerging,48_discharge_predictive_model_risk assessment,41,Risk Assessment and Discharge Disposition Models,0.8780487804878049
+41,43,0.030699,-61.538,0.2926,0.009332,0.3358,2021,8,0.537,0.1566,0.018248,Emerging,41_questions_online_fellowship_search,43,Online Research Quality and Surgical Training Surveys,0.8604651162790697
+43,42,0.028071,-56.2444,0.2193,0.02796,0.3332,2021,10,0.4606,0.0746,0.046414,Emerging,43_national joint_registry_cemented_hr,42,National Joint Replacement Registry Studies,0.7857142857142857
+72,22,0.02624,-52.7244,0.3271,0.005421,0.1616,2023,7,0.447,0.0,0.011667,Emerging,72_learning_deep learning_model_images,22,Deep Learning and Computer Vision in Arthroplasty,0.9545454545454546
+64,27,0.024521,-49.2097,0.3224,0.005842,0.2119,2022,6,0.4354,0.0,0.012122,Emerging,64_work_minutes_rvu_relative value,27,Relative Value Units and Surgical Work in TJA,0.8888888888888888
+55,36,0.023174,-46.4311,0.3339,0.004851,0.2764,2021,5,0.35,0.0,0.010882,Emerging,55_subsidence_dm_survivorship_cementless,36,Cementless Stem Subsidence and Early Fixation,0.75
+47,41,0.022385,-44.8039,0.2234,0.026327,0.3139,2020,6,0.2883,0.0803,0.045524,Emerging,47_outpatient_day_asc_visits,41,Ambulatory Surgery Center and Outpatient TJA,0.8048780487804879
+53,37,0.021905,-43.8603,0.2888,0.009899,0.2903,2020,6,0.4093,0.082,0.018673,Emerging,53_standing_pelvic_spinopelvic_seated,37,Spinopelvic Parameters and Cup Positioning in THA,0.7837837837837838
+82,20,0.021303,-42.7865,0.3769,0.002371,0.1495,2024,6,0.3975,0.0,0.005963,Emerging,82_articles_journal_spin_published,20,Bibliometric Analysis of Joint Arthroplasty Literature,0.9
+80,21,0.020778,-41.7259,0.2303,0.023816,0.1529,2022,6,0.3644,0.0,0.042058,Emerging,80_opioid_efficacy safety_opioid consumption_postoperative pain,21,"Opioid Use, Prescription Patterns, and Stewardship (Efficacy Safety)",1.0
+77,21,0.020567,-41.2878,0.3581,0.003262,0.1651,2024,5,0.4124,0.0803,0.007736,Emerging,77_btka_bmi_staged_bilateral,21,Bilateral Total Knee Arthroplasty and Simultaneous Staging,0.9047619047619048
+68,24,0.020474,-41.0916,0.4167,0.001177,0.173,2025,7,0.3712,0.0,0.003369,Emerging,68_procedures_projected_rtha_annual,24,Arthroplasty Volume Trends and Future Projections,0.7916666666666666
+63,28,0.018905,-37.8726,0.2206,0.027436,0.2296,2026,5,0.3226,0.0,0.046414,Emerging,63_medial_flexion_rom_angle,28,Knee Flexion and Range of Motion After TKA,0.7142857142857143
+74,22,0.017911,-35.9285,0.3264,0.005482,0.1703,2024,5,0.3058,0.0,0.011667,Emerging,74_physical therapy_therapy_directed_rehabilitation,22,Postoperative Rehabilitation and Physical Therapy,0.8181818181818182
+79,21,0.016974,-34.0478,0.2918,0.009454,0.1625,2023,4,0.3064,0.0,0.018248,Emerging,79_koos_simultaneous_depressed_fa,21,KOOS Outcomes After Simultaneous Bilateral TKA,0.9047619047619048
+65,25,0.016263,-32.5811,0.3022,0.008041,0.1974,2025,5,0.2958,0.082,0.016278,Emerging,65_medicare_cms_reimbursement_payment,25,Medicare Reimbursement and Bundled Payments (Cms),0.8
+23,81,0.034304,-68.4654,0.1491,0.075897,0.6739,2020,14,0.8804,0.549,0.111087,Stable,23_care_health care_payment_value,81,Value-Based Care and Alternative Payment Models,0.7777777777777778
+0,365,0.033222,-63.6826,0.0333,0.416372,3.2766,2017,37,2.9899,2.639,0.467012,Stable,0_hours_randomized_blood_txa,365,Tranexamic Acid and Perioperative Blood Management,0.6027397260273972
+14,116,0.025527,-50.4446,0.076,0.214215,1.0056,2017,14,0.8909,0.495,0.265371,Stable,14_survivorship_acetabular_loosening_survival,116,THA Survivorship and Long-Term Aseptic Loosening,0.6206896551724138
+34,56,0.024993,-49.8968,0.1041,0.143113,0.4757,2020,12,0.6217,0.3952,0.182744,Stable,34_opioid_narcotic_narcotics_opioids,56,"Opioid Use, Prescription Patterns, and Stewardship",0.8571428571428571
+20,86,0.024594,-48.8226,0.106,0.139156,0.7472,2017,9,0.6929,0.2388,0.180468,Stable,20_health_mental_satisfaction_function,86,Depression and Mental Health in Arthroplasty,0.5930232558139535
+40,46,0.024076,-48.1367,0.1766,0.051496,0.3889,2024,7,0.5893,0.1601,0.079151,Stable,40_expectations_satisfaction_koos_function,46,KOOS and Knee-Specific PROMs (Expectations),0.8043478260869565
+37,49,0.02217,-44.2823,0.1487,0.07628,0.4017,2025,13,0.5477,0.1528,0.111087,Stable,37_collapse_onfh_hips_femoral head,49,Femoral Head Collapse and Osteonecrosis,0.7142857142857143
+54,36,0.020564,-41.162,0.2094,0.032236,0.2846,2023,6,0.4147,0.1528,0.052463,Stable,54_obese_morbidly obese_morbidly_bmi,36,Morbid Obesity and Joint Arthroplasty Complications,0.75
+32,60,0.020452,-40.7044,0.1181,0.117446,0.517,2018,8,0.5093,0.1601,0.159804,Stable,32_cost_cost effectiveness_effectiveness_cost effective,60,Cost-Effectiveness of Joint Arthroplasty,0.7
+22,85,0.016358,-32.1882,0.0445,0.346072,0.7822,2023,14,0.9755,0.4926,0.398944,Stable,22_members_survey_aahks_respondents,85,AAHKS Member Survey Studies,0.6705882352941176
+70,23,0.01489,-29.8204,0.1386,0.088009,0.1907,2019,5,0.2949,0.0,0.123809,Stable,70_stem_survival_loosening_survival rate,23,Femoral Stem Survival and Aseptic Loosening,0.6521739130434783
+56,35,0.014215,-28.342,0.1814,0.048132,0.3084,2026,4,0.4864,0.2443,0.075377,Stable,56_alignment_varus_axis_valgus,35,Tibial Mechanical Axis and Varus-Valgus Alignment,0.7142857142857143
+78,21,0.01379,-27.6302,0.1487,0.076289,0.1634,2018,5,0.2151,0.0,0.111087,Stable,78_opioid_opioid use_opioids_narcotic,21,Preoperative Opioid Use and Outcomes,0.9047619047619048
+71,22,0.013342,-26.7097,0.1294,0.100117,0.1821,2016,5,0.2285,0.0,0.138495,Stable,71_aki_vte_vancomycin_prophylaxis,22,Vancomycin Prophylaxis and Acute Kidney Injury Risk,0.5909090909090909
+62,31,0.012973,-25.9085,0.1061,0.139028,0.239,2017,8,0.2115,0.0,0.180468,Stable,62_day_los_sdd_stay,31,Same-Day Discharge Protocols in Joint Arthroplasty,0.7419354838709677
+44,42,0.012318,-24.4844,0.0635,0.257918,0.3434,2017,5,0.253,0.0,0.305817,Stable,44_readmissions_readmission_hospital_day,42,30-Day Readmission and Postoperative Complications,0.6190476190476191
+11,139,0.012315,-23.5326,0.027,0.464834,1.2877,2025,13,1.2966,1.118,0.507648,Stable,11_aspirin_vte_venous_prophylaxis,139,Aspirin vs Anticoagulant VTE Prophylaxis,0.5899280575539568
+52,37,0.011973,-23.8177,0.0824,0.195154,0.3131,2016,5,0.3569,0.0746,0.245421,Stable,52_contamination_air_noise_swabs,37,Operating Room Air Contamination and Infection Prevention,0.6216216216216216
+58,33,0.009341,-18.5498,0.0318,0.427068,0.2779,2014,7,0.2406,0.0939,0.472622,Stable,58_eq_satisfaction_eq 5d_5d,33,Patient Satisfaction After Joint Arthroplasty,0.6363636363636364
+67,25,0.009323,-18.5787,0.0532,0.301748,0.2118,2016,4,0.2044,0.0803,0.352748,Stable,67_cardiac_outpatient_inpatient_ileus,25,Cardiac Complications and Medical Comorbidities After TJA,0.68
+19,87,0.007733,-14.814,0.0086,0.682046,0.7724,2017,9,0.5821,0.3292,0.71658,Stable,19_patellar_cruciate_medial_uka,87,"Patellar Resurfacing, PCL Management, and Knee Design",0.5747126436781609
+76,22,0.007568,-15.0643,0.0742,0.220032,0.1898,2025,4,0.2793,0.1566,0.268568,Stable,76_transfusion_blood_hgb_txa,22,Blood Loss and Transfusion Management (Hgb),0.6818181818181818
+73,22,0.00691,-13.746,0.0433,0.352621,0.1813,2021,5,0.2088,0.1566,0.400925,Stable,73_publication_authors_articles_publications,22,Authorship Trends and Publication Patterns in Arthroplasty,0.7272727272727273
+42,43,0.005462,-10.6206,0.0098,0.660999,0.3888,2021,9,0.2376,0.4086,0.703371,Stable,42_acl_knees_ankle_varus,43,Lower Extremity Deformity and Ligament Reconstruction,0.6511627906976745
+75,22,0.001823,-3.4673,0.0033,0.799747,0.2068,2016,3,0.1729,0.1562,0.819494,Stable,75_varus_alignment_valgus_ankle,22,Lower Extremity Alignment and Deformity Correction,0.5
+30,61,0.001501,-2.4283,0.0006,0.912712,0.5972,2014,6,0.573,0.4696,0.912712,Stable,30_functional_alignment_uka_function,61,Unicompartmental Knee Arthroplasty Functional Outcomes,0.5409836065573771
+17,91,-0.003456,7.7627,0.0009,0.893311,0.7979,2016,13,0.2453,0.3207,0.904205,Stable,17_metal_levels_ion_cobalt,91,Metal Ion Release and Cobalt-Chromium Toxicity,0.4725274725274725
+51,38,-0.003953,8.3197,0.0054,0.744202,0.3514,2013,5,0.1567,0.082,0.77211,Stable,51_release_flexion_varus_stair,38,Soft Tissue Balancing and Ligament Release in TKA,0.42105263157894735
+66,25,-0.005879,12.0757,0.0124,0.621934,0.2273,2016,7,0.0307,0.0781,0.670396,Stable,66_txa_blood_blood loss_transfusion,25,Blood Loss and Transfusion Management,0.24
+69,24,-0.013733,27.9356,0.0701,0.233668,0.2563,2010,4,0.0982,0.2353,0.281079,Stable,69_neurovascular_vastus_nerve_muscle,24,Neurovascular Anatomy and Complication Avoidance,0.4166666666666667
+38,47,-0.022284,45.3981,0.1456,0.079749,0.4849,2015,5,0.363,0.8089,0.114124,Stable,38_biofilm_cement_bone cement_bacterial,47,Implant Biofilm and Infection Biology,0.5106382978723404
+39,47,-0.027521,55.9848,0.1074,0.136603,0.5168,2009,6,0.2502,0.8053,0.180468,Stable,39_osteotomy_dysplasia_hips_shortening,47,Hip Dysplasia and Periacetabular Osteotomy,0.44680851063829785
+25,75,-0.035861,73.0522,0.1962,0.038941,0.7744,2014,8,0.3621,1.2739,0.062156,Stable,25_survival_cumulative_survivorship_cumulative incidence,75,Implant Survival Analysis and Competing Risk Methods,0.49333333333333335
+24,76,-0.045553,92.625,0.3924,0.001813,0.8133,2014,6,0.3648,1.0431,0.004723,Cold,24_biomechanical_bone_fixation_stability,76,Biomechanical Testing and Implant Stability,0.40789473684210525
+81,20,-0.049175,99.4189,0.3922,0.001821,0.3077,2011,5,0.0376,0.6741,0.004723,Cold,81_degrees_knee society_society_knees,20,Knee Society Score and Clinical Outcome Reporting,0.1
+57,34,-0.056801,114.9315,0.4398,0.000768,0.4485,2006,5,0.0639,1.0524,0.002361,Cold,57_ceramic_stem_osteolysis_acetabular,34,Ceramic Components and Periprosthetic Osteolysis,0.14705882352941177
+49,39,-0.062013,125.4963,0.6595,4e-06,0.5098,2007,5,0.1632,1.2138,3.3e-05,Cold,49_wear_mm_polyethylene_cross linked,39,Polyethylene Wear and Osteolysis,0.28205128205128205
+59,32,-0.067094,135.6827,0.7242,1e-06,0.454,2014,5,0.0,1.0724,1e-05,Cold,59_fractures_eto_intertrochanteric_fracture,32,Extended Trochanteric Osteotomy and Periprosthetic Fracture,0.0625
+16,102,-0.074009,150.2765,0.5185,0.000158,1.1119,2017,9,0.5513,1.9107,0.000596,Cold,16_damage_corrosion_retrieved_wear,102,Implant Retrieval and Corrosion Analysis,0.4411764705882353
+26,72,-0.075296,152.5822,0.5996,2.3e-05,0.8237,2017,7,0.1298,1.1707,0.000106,Cold,26_head_taper_corrosion_kn,72,Femoral Head Taper Corrosion and Modular Junction Failure,0.2916666666666667
+50,38,-0.100255,202.6539,0.4989,0.000239,0.5907,2007,9,0.0307,2.0637,0.000793,Cold,50_incision_invasive_minimally invasive_minimally,38,Minimally Invasive Surgical Approaches in TJA,0.13157894736842105
+21,86,-0.119699,242.2964,0.2871,0.010166,1.0438,2006,14,0.3931,2.8859,0.018751,Cold,21_tissue_metal_corrosion_spinopelvic,86,Adverse Local Tissue Reactions and Implant Corrosion,0.46511627906976744
+8,198,-0.131461,267.1036,0.5613,6e-05,2.1444,2011,16,0.9261,2.8714,0.000262,Cold,8_flexion_posterior_kinematics_gap,198,"Knee Kinematics, Gap Balancing, and ROM",0.3939393939393939
+33,58,-0.163328,330.1146,0.6516,6e-06,0.927,2005,10,0.0,2.4415,4.5e-05,Cold,33_acetabular_osteolysis_hips_loosening,58,Osteolysis and Implant Loosening,0.017241379310344827
+12,137,-0.195169,395.1223,0.671,3e-06,1.7592,2012,15,0.3568,3.3256,2.8e-05,Cold,12_cementless_stem_hips_ceramic,137,Ceramic-on-Ceramic Bearings and Fracture,0.2116788321167883
+18,87,-0.210662,425.9355,0.54,9.8e-05,1.3463,2011,16,0.0242,3.3053,0.000399,Cold,18_ceramic_fracture_liner_polyethylene,87,Polyethylene Liner Performance,0.022988505747126436
+1,278,-0.241913,490.7145,0.7909,0.0,3.1397,2014,24,1.1346,4.8038,0.0,Cold,1_anteversion_degrees_navigation_axis,278,Acetabular Cup Orientation and Component Positioning,0.3345323741007194
+13,125,-0.326794,660.6567,0.6106,1.8e-05,2.0027,2009,19,0.0,5.219,9.3e-05,Cold,13_report_year old_report case_rare,125,Case Reports of Unusual Arthroplasty Complications,0.0
+2,272,-0.47264,956.2461,0.8936,0.0,3.6394,2014,24,0.3975,7.9158,0.0,Cold,2_acetabular_bone_hips_technique,272,Primary Total Hip Arthroplasty Technique and Outcomes,0.17279411764705882

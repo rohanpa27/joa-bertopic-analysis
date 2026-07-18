@@ -1,0 +1,251 @@
+priority,trigger_keywords,assigned_label
+1,periprosthetic AND infection,Periprosthetic Joint Infection Diagnosis and Treatment
+2,pji,Periprosthetic Joint Infection Diagnosis and Treatment
+3,infection AND synovial AND fluid,Synovial Fluid Biomarkers for PJI Diagnosis
+4,two AND stage AND exchange,Two-Stage Exchange Arthroplasty for Infection
+5,debridement AND irridation,"Debridement, Antibiotics, and Implant Retention (DAIR)"
+6,staphylococcus,Periprosthetic Infection Microbiology
+7,antibiotic AND cement,Antibiotic-Loaded Cement Spacers
+8,biofilm,Implant Biofilm and Infection Biology
+9,robotic AND assisted,Robotic-Assisted Total Joint Arthroplasty
+10,robotic,Robotic-Assisted Total Joint Arthroplasty
+11,navigation AND computer,Computer-Navigated Knee and Hip Arthroplasty
+12,navigated AND tka,Computer-Navigated Knee Arthroplasty
+13,patient AND specific AND instrument,Patient-Specific Instrumentation for TKA
+14,augmented AND reality,Augmented Reality and Mixed-Reality Surgical Guidance
+15,outpatient AND arthroplasty,Outpatient and Same-Day Discharge Arthroplasty
+16,same AND day AND discharge,Outpatient and Same-Day Discharge Arthroplasty
+17,ambulatory AND surgery,Ambulatory Surgery Center Joint Replacement
+18,rapid AND recovery,Rapid Recovery and Enhanced Recovery Protocols
+19,enhanced AND recovery,Enhanced Recovery After Surgery (ERAS) Pathways
+20,length AND of AND stay,Length of Stay and Discharge Disposition
+21,discharge AND home,Discharge Disposition and Skilled Nursing Use
+22,opioid,"Opioid Use, Prescription Patterns, and Stewardship"
+23,multimodal AND analgesia,Multimodal Analgesia After Joint Arthroplasty
+24,periarticular AND injection,Periarticular Injection for Postoperative Pain
+25,adductor AND canal,Adductor Canal and Peripheral Nerve Blocks
+26,femoral AND nerve AND block,Femoral Nerve Block in Knee Arthroplasty
+27,tranexamic AND acid,Tranexamic Acid and Perioperative Blood Loss
+28,venous AND thromboembolism,VTE Prophylaxis After Total Joint Arthroplasty
+29,dvt AND prophylaxis,DVT Prophylaxis Regimens
+30,aspirin AND vte,Aspirin vs Anticoagulant VTE Prophylaxis
+31,aspirin,Aspirin for VTE Prophylaxis
+32,rivaroxaban,Direct Oral Anticoagulants After Arthroplasty
+33,enoxaparin,Low-Molecular-Weight Heparin Prophylaxis
+34,warfarin,Warfarin Anticoagulation After Arthroplasty
+35,blood AND transfusion,Blood Loss and Transfusion Management
+36,highly AND crosslinked,Highly Crosslinked Polyethylene Wear
+37,polyethylene AND wear,Polyethylene Wear and Osteolysis
+38,polyethylene AND liner,Polyethylene Liner Performance
+39,metal AND on AND metal,Metal-on-Metal Bearings and Adverse Reactions
+40,ceramic,Ceramic-on-Ceramic Bearings and Fracture
+41,osteolysis,Osteolysis and Implant Loosening
+42,wear AND particles,Wear Particle Biology and Macrophage Response
+43,cementless AND femoral,Cementless Femoral Stem Fixation
+44,cemented AND femoral,Cemented Femoral Stem Fixation
+45,modular AND neck,Modular Femoral Necks and Taper Corrosion
+46,dual AND mobility,Dual-Mobility Acetabular Constructs
+47,monoblock,Monoblock Acetabular Cup Design
+48,short AND stem,Short-Stem Femoral Components
+49,tapered AND stem,Tapered Femoral Stems
+50,press AND fit,Press-Fit Acetabular Component Fixation
+51,highly AND porous,Highly Porous Acetabular Components
+52,anterior AND approach,Direct Anterior Approach Total Hip Arthroplasty
+53,posterior AND approach,Posterior Approach Total Hip Arthroplasty
+54,dislocation AND tha,Hip Dislocation and Instability After THA
+55,hip AND dislocation,Hip Dislocation and Instability
+56,hip AND fracture,Hip Fracture and Hemiarthroplasty
+57,femoral AND neck AND fracture,Femoral Neck Fracture Hemiarthroplasty
+58,hip AND resurfacing,Hip Resurfacing Arthroplasty
+59,acetabular AND cup,Acetabular Cup Positioning and Fixation
+60,offset AND leg,Femoral Offset and Leg Length
+61,uka AND unicompartmental,Unicompartmental Knee Arthroplasty
+62,unicompartmental,Unicompartmental Knee Arthroplasty
+63,posterior AND stabilized,Posterior-Stabilized vs CR Knee Designs
+64,cruciate AND retaining,Cruciate-Retaining Knee Arthroplasty
+65,medial AND pivot,Medial-Pivot Knee Designs
+66,kinematic AND alignment,Kinematic Alignment in Knee Arthroplasty
+67,mechanical AND alignment,Mechanical Alignment in Knee Arthroplasty
+68,patellar AND resurfacing,Patellar Resurfacing in TKA
+69,flexion AND contracture,Knee Flexion and Range of Motion
+70,manipulation AND under AND anesthesia,Manipulation Under Anesthesia for Stiff Knee
+71,tibial AND component,Tibial Component Alignment and Fixation
+72,femoral AND component,Femoral Component Rotation and Sizing
+73,periprosthetic AND fracture,Periprosthetic Fracture Management
+74,revision AND tha,Revision Total Hip Arthroplasty
+75,revision AND tka,Revision Total Knee Arthroplasty
+76,revision AND arthroplasty,Revision Joint Arthroplasty Outcomes
+77,aseptic AND loosening,Aseptic Loosening of Hip and Knee Implants
+78,readmission,30-Day Readmission and Postoperative Complications
+79,mortality AND after,Mortality and Major Complications After Arthroplasty
+80,machine AND learning,Machine Learning Prediction of Arthroplasty Outcomes
+81,artificial AND intelligence,Artificial Intelligence in Joint Replacement
+82,registry AND arthroplasty,National and International Arthroplasty Registries
+83,national AND joint AND registry,National Joint Replacement Registry Studies
+84,medicare,Medicare Reimbursement and Bundled Payments
+85,bundled AND payment,Bundled Payment and Value-Based Care
+86,cost AND effectiveness,Cost-Effectiveness of Joint Arthroplasty
+87,value AND based,Value-Based Care Models in Arthroplasty
+88,patient AND reported AND outcome,Patient-Reported Outcome Measures (PROMs)
+89,koos,KOOS and Knee-Specific PROMs
+90,hoos,HOOS and Hip-Specific PROMs
+91,promis,PROMIS Outcome Measurement
+92,oxford AND knee,Oxford Knee Score and Functional Outcomes
+93,womac,WOMAC Functional Assessment
+94,satisfaction,Patient Satisfaction After Joint Arthroplasty
+95,obesity AND bmi,Obesity and BMI as Risk Factor for Arthroplasty
+96,morbid AND obesity,Morbid Obesity and Arthroplasty Complications
+97,diabetes,Diabetes Mellitus and Arthroplasty Outcomes
+98,smoking,Smoking and Joint Arthroplasty Risk
+99,hemoglobin AND a1c,HbA1c and Surgical Outcome Optimization
+100,malnutrition AND albumin,Nutritional Status and Surgical Risk
+101,frailty,Frailty and Arthroplasty Outcomes
+102,opioid AND use,Preoperative Opioid Use and Outcomes
+103,mental AND health,Depression and Mental Health in Arthroplasty
+104,racial AND disparities,Racial and Ethnic Disparities in Arthroplasty
+105,socioeconomic,Socioeconomic Determinants of Arthroplasty Outcomes
+106,gender AND differences,Sex and Gender Differences in Joint Replacement
+107,young AND patients,Joint Arthroplasty in Young Patients
+108,elderly AND octogenarian,Arthroplasty in Octogenarian and Elderly Patients
+109,megaprosthesis,Megaprosthesis Reconstruction
+110,tumor AND endoprosthesis,Endoprosthetic Reconstruction for Tumors
+111,oncology AND limb,Limb-Salvage Oncology Arthroplasty
+112,finite AND element,Finite Element Analysis of Implant Biomechanics
+113,biomechanical AND cadaveric,Biomechanical Cadaveric Testing
+114,retrieval AND analysis,Implant Retrieval Analysis
+115,tribology,Tribology and Wear Testing of Implants
+116,review AND literature,Narrative Review Articles on Joint Arthroplasty
+117,systematic AND review,Systematic Reviews and Meta-Analyses
+118,meta AND analysis,Systematic Reviews and Meta-Analyses
+119,randomized AND controlled,Randomized Controlled Trials in Arthroplasty
+120,case AND report,Case Reports of Unusual Arthroplasty Complications
+121,anesthesia AND spinal,Spinal vs General Anesthesia for Arthroplasty
+122,regional AND anesthesia,Regional Anesthesia for Joint Replacement
+123,physical AND therapy,Postoperative Rehabilitation and Physical Therapy
+124,preoperative AND education,Preoperative Education and Optimization
+125,telehealth,Telehealth and Remote Postoperative Monitoring
+126,covid,COVID-19 Pandemic Impact on Arthroplasty Practice
+127,simulation AND training,Surgical Simulation and Resident Training
+128,learning AND curve,Surgical Learning Curve in New Techniques
+129,vitamin AND d,Vitamin D and Bone Health in Arthroplasty
+130,bone AND loss,Bone Loss and Reconstruction in Revision
+131,txa AND blood,Tranexamic Acid and Perioperative Blood Management
+132,randomized AND txa,Tranexamic Acid Randomized Controlled Trials
+133,randomized AND blood,Perioperative Blood Management RCTs
+134,anteversion AND degrees,Acetabular Cup Orientation and Component Positioning
+135,anteversion AND navigation,Acetabular Cup Orientation and Component Positioning
+136,anteversion AND axis,Acetabular Cup Orientation and Component Positioning
+137,acetabular AND technique,Primary Total Hip Arthroplasty Technique and Outcomes
+138,acetabular AND bone AND hips,Primary Total Hip Arthroplasty Technique and Outcomes
+139,ci AND odds,Observational Study Design and Statistical Methods
+140,odds AND ratio,Observational Study Design and Statistical Methods
+141,flexion AND kinematics,"Knee Kinematics, Gap Balancing, and ROM"
+142,posterior AND kinematics,"Knee Kinematics, Gap Balancing, and ROM"
+143,gap AND balancing,Gap Balancing in Total Knee Arthroplasty
+144,survivorship AND acetabular,THA Survivorship and Long-Term Aseptic Loosening
+145,survivorship AND loosening,THA Survivorship and Long-Term Aseptic Loosening
+146,retrieved AND wear,Implant Retrieval and Corrosion Analysis
+147,retrieved AND damage,Implant Retrieval and Corrosion Analysis
+148,retrieval AND corrosion,Implant Retrieval and Corrosion Analysis
+149,metal AND ion,Metal Ion Release and Cobalt-Chromium Toxicity
+150,cobalt AND chromium,Metal Ion Release and Cobalt-Chromium Toxicity
+151,ion AND cobalt,Metal Ion Release and Cobalt-Chromium Toxicity
+152,metal AND levels,Metal Ion Monitoring After Metal-on-Metal Arthroplasty
+153,tissue AND corrosion,Adverse Local Tissue Reactions and Implant Corrosion
+154,tissue AND metal,Adverse Local Tissue Reactions and Implant Corrosion
+155,aahks AND survey,AAHKS Member Survey Studies
+156,survey AND respondents,Surgeon Survey Research in Arthroplasty
+157,members AND survey,Surgeon Survey Research in Arthroplasty
+158,health AND care AND payment,Value-Based Care and Alternative Payment Models
+159,value AND payment,Value-Based Care and Alternative Payment Models
+160,biomechanical AND fixation,Biomechanical Testing and Implant Stability
+161,biomechanical AND stability,Biomechanical Testing and Implant Stability
+162,fixation AND stability,Implant Fixation and Biomechanical Stability
+163,cumulative AND survivorship,Implant Survival Analysis and Competing Risk Methods
+164,cumulative AND incidence,Implant Survival Analysis and Competing Risk Methods
+165,taper AND corrosion,Femoral Head Taper Corrosion and Modular Junction Failure
+166,head AND taper,Femoral Head Taper Corrosion and Modular Junction Failure
+167,modular AND taper,Femoral Head Taper Corrosion and Modular Junction Failure
+168,functional AND uka,Unicompartmental Knee Arthroplasty Functional Outcomes
+169,alignment AND uka,Unicompartmental Knee Arthroplasty Alignment Outcomes
+170,iliopsoas AND lumbar,Hip-Spine Syndrome and Lumbar Fusion After THA
+171,lumbar AND dislocation,Lumbar Fusion and THA Dislocation Risk
+172,spinopelvic AND fusion,Spinopelvic Parameters and Hip-Spine Conflict
+173,iliopsoas AND fusion,Hip-Spine Syndrome and Spinopelvic Mechanics
+174,registry AND revision,Registry-Based Revision Risk and Implant Survivorship
+175,hr AND revision,Hazard Ratio Analysis of Revision Risk
+176,fracture AND orif,Periprosthetic Fracture Treatment and Fixation
+177,periprosthetic AND fracture,Periprosthetic Fracture Management
+178,eto AND fracture,Extended Trochanteric Osteotomy and Periprosthetic Fracture
+179,intertrochanteric AND fracture,Intertrochanteric Fracture and Hip Arthroplasty
+180,onfh,Osteonecrosis of the Femoral Head
+181,collapse AND femoral,Femoral Head Collapse and Osteonecrosis
+182,osteonecrosis,Osteonecrosis of the Femoral Head
+183,dysplasia AND osteotomy,Hip Dysplasia and Periacetabular Osteotomy
+184,dysplasia AND hips,Developmental Hip Dysplasia and THA Technique
+185,shortening AND dysplasia,Limb Shortening and Hip Dysplasia Correction
+186,online AND fellowship,Online Research Quality and Surgical Training Surveys
+187,online AND search,Internet-Based Patient Research and Online Information
+188,acl AND varus,Lower Extremity Deformity and Ligament Reconstruction
+189,ankle AND varus,Lower Extremity Alignment and Deformity Correction
+190,daa AND anterior,Direct Anterior Approach Total Hip Arthroplasty
+191,anterior AND da,Direct Anterior Approach Total Hip Arthroplasty
+192,survivorship AND radiographic,Radiographic Implant Survival and Loosening Assessment
+193,survival AND radiographic,Radiographic Implant Survival Assessment
+194,outpatient AND asc,Ambulatory Surgery Center and Outpatient TJA
+195,asc AND day,Ambulatory Surgery Center Arthroplasty
+196,discharge AND predictive,Machine Learning Discharge Prediction After TJA
+197,risk AND assessment AND discharge,Risk Assessment and Discharge Disposition Models
+198,minimally AND invasive,Minimally Invasive Surgical Approaches in TJA
+199,incision AND invasive,Minimally Invasive and Mini-Incision Arthroplasty
+200,release AND varus,Soft Tissue Balancing and Ligament Release in TKA
+201,flexion AND varus,Flexion-Extension Gap Balancing in TKA
+202,contamination AND air,Operating Room Air Contamination and Infection Prevention
+203,noise AND squeaking,Implant Noise and Squeaking in TJA
+204,spinopelvic AND seated,Spinopelvic Parameters and Cup Positioning in THA
+205,pelvic AND standing,Pelvic Tilt and Functional Acetabular Positioning
+206,standing AND pelvic,Functional Alignment and Pelvic Kinematics in THA
+207,morbidly AND obese,Morbid Obesity and Joint Arthroplasty Complications
+208,obese AND bmi,Obesity and BMI Effects on Arthroplasty Outcomes
+209,bariatric AND surgery,Bariatric Surgery Prior to Joint Arthroplasty
+210,subsidence AND cementless,Cementless Stem Subsidence and Early Fixation
+211,subsidence AND survivorship,Femoral Stem Subsidence and Long-Term Survivorship
+212,varus AND axis,Tibial Mechanical Axis and Varus-Valgus Alignment
+213,alignment AND axis,Component Alignment and Mechanical Axis in TKA
+214,ceramic AND osteolysis,Ceramic Components and Periprosthetic Osteolysis
+215,osteolysis AND stem,Femoral Stem Osteolysis and Bone Remodeling
+216,sdd AND day,Same-Day Discharge Protocols in Joint Arthroplasty
+217,los AND sdd,Length of Stay and Same-Day Discharge Outcomes
+218,flexion AND rom,Knee Flexion and Range of Motion After TKA
+219,medial AND rom,ROM and Medial Release in Total Knee Arthroplasty
+220,rvu AND work,Relative Value Units and Surgical Work in TJA
+221,rvu AND minutes,"Operative Time, RVU, and Surgical Efficiency"
+222,cardiac AND outpatient,Cardiac Complications and Medical Comorbidities After TJA
+223,ileus AND cardiac,Postoperative Ileus and Cardiac Events After TJA
+224,projected AND annual,Arthroplasty Volume Trends and Future Projections
+225,procedures AND projected,Projected Arthroplasty Demand and Healthcare Burden
+226,rtha,Revision Total Hip Arthroplasty Volume and Burden
+227,neurovascular AND nerve,Neurovascular Anatomy and Complication Avoidance
+228,vastus AND nerve,Vastus and Nerve Anatomy in Knee Arthroplasty
+229,stem AND loosening,Femoral Stem Survival and Aseptic Loosening
+230,stem AND survival,Femoral Stem Long-Term Survival Studies
+231,aki AND vancomycin,Vancomycin Prophylaxis and Acute Kidney Injury Risk
+232,vte AND vancomycin,Perioperative Antibiotic and VTE Prophylaxis Protocols
+233,deep AND learning,Deep Learning and Computer Vision in Arthroplasty
+234,learning AND images,Machine Learning Image Analysis in Joint Replacement
+235,publication AND spin,"Research Quality, Spin, and Publication Bias in TJA"
+236,journal AND articles,Bibliometric Analysis of Joint Arthroplasty Literature
+237,spin AND published,Research Spin and Reporting Quality in Arthroplasty
+238,fragility AND rcts,Clinical Trial Quality and Fragility Index in Arthroplasty
+239,consensus AND iqr,Consensus Statements and Delphi Methodology
+240,varus AND valgus,Coronal Plane Alignment in Total Knee Arthroplasty
+241,alignment AND valgus,Valgus Deformity and TKA Alignment Outcomes
+242,btka AND bilateral,Bilateral Total Knee Arthroplasty and Simultaneous Staging
+243,bilateral AND staged,Staged vs Simultaneous Bilateral Knee Arthroplasty
+244,koos AND simultaneous,KOOS Outcomes After Simultaneous Bilateral TKA
+245,patellar AND cruciate,"Patellar Resurfacing, PCL Management, and Knee Design"
+246,cruciate AND medial,Posterior Cruciate Ligament and Medial Compartment in TKA
+247,publication AND authors,Authorship Trends and Publication Patterns in Arthroplasty
+248,authors AND articles,Authorship Trends and Publication Patterns in Arthroplasty
+249,knee AND society,Knee Society Score and Clinical Outcome Reporting
+250,degrees AND society,Knee Society Score and ROM Outcome Assessment

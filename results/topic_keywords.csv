@@ -1,0 +1,84 @@
+topic_id,n_documents,top_15_words,bertopic_name
+0,365,"hours, randomized, blood, txa, consumption, blood loss, bupivacaine, block, mg, analgesia",0_hours_randomized_blood_txa
+1,278,"anteversion, degrees, navigation, axis, alignment, accuracy, measurements, ct, radiographs, cup",1_anteversion_degrees_navigation_axis
+2,272,"acetabular, bone, hips, technique, osteotomy, graft, stem, defects, allograft, cup",2_acetabular_bone_hips_technique
+3,260,"stage, infection, pji, exchange, stage exchange, dair, reimplantation, periprosthetic joint, periprosthetic, spacer",3_stage_infection_pji_exchange
+4,253,"mcid, koos, promis, physical, jr, patient reported, hoos, function, pass, proms",4_mcid_koos_promis_physical
+5,251,"odds, infection, increased risk, pji, tja, database, matched, ratio, national, multivariate",5_odds_infection_increased risk_pji
+6,215,"ci, 95 ci, odds, day, 90 day, readmission, ratio, 0001, odds ratio, medical",6_ci_95 ci_odds_day
+7,200,"meta, systematic, meta analysis, systematic review, review meta, trials, pooled, controlled trials, embase, ci",7_meta_systematic_meta analysis_systematic review
+8,198,"flexion, posterior, kinematics, gap, extension, cruciate, rotation, medial, ligament, contact",8_flexion_posterior_kinematics_gap
+9,189,"synovial, pji, crp, diagnostic, specificity, sensitivity, fluid, infection, synovial fluid, count",9_synovial_pji_crp_diagnostic
+10,147,"survivorship, free, loosening, aseptic, reoperation, instability, survivorship free, aseptic loosening, fracture, fixation",10_survivorship_free_loosening_aseptic
+11,139,"aspirin, vte, venous, prophylaxis, dvt, thromboembolism, bleeding, venous thromboembolism, pe, asa",11_aspirin_vte_venous_prophylaxis
+12,137,"cementless, stem, hips, ceramic, acetabular, osteolysis, survival, long term, term, long",12_cementless_stem_hips_ceramic
+13,125,"report, year old, report case, rare, old, iliopsoas, artery, metal, unusual, woman",13_report_year old_report case_rare
+14,116,"survivorship, acetabular, loosening, survival, implant, constrained, stem, modular, aseptic, stems",14_survivorship_acetabular_loosening_survival
+15,112,"medicare, reimbursement, care, hospital, payments, cost, hospitals, payment, bpci, costs",15_medicare_reimbursement_care_hospital
+16,102,"damage, corrosion, retrieved, wear, fretting, surface, heads, polyethylene, oxidation, vivo",16_damage_corrosion_retrieved_wear
+17,91,"metal, levels, ion, cobalt, metal ion, ion levels, chromium, serum, altr, mom",17_metal_levels_ion_cobalt
+18,87,"ceramic, fracture, liner, polyethylene, failure, stem, head, report, dissociation, modular",18_ceramic_fracture_liner_polyethylene
+19,87,"patellar, cruciate, medial, uka, posterior, cr, ps, knee society, bearing, patella",19_patellar_cruciate_medial_uka
+20,86,"health, mental, satisfaction, function, physical, weight, mental health, patient reported, improvement, depression",20_health_mental_satisfaction_function
+21,86,"tissue, metal, corrosion, spinopelvic, instability, bone, hip spine, soft, spine, dm",21_tissue_metal_corrosion_spinopelvic
+22,85,"members, survey, aahks, respondents, practice, knee surgeons, american association, association hip, hip knee, american",22_members_survey_aahks_respondents
+23,81,"care, health care, payment, value, health, pandemic, covid, models, covid 19, bundled",23_care_health care_payment_value
+24,76,"biomechanical, bone, fixation, stability, cement, tibial, loading, load, failure, micromotion",24_biomechanical_bone_fixation_stability
+25,75,"survival, cumulative, survivorship, cumulative incidence, mortality, reoperation, incidence, younger, acl, implant",25_survival_cumulative_survivorship_cumulative incidence
+26,72,"head, taper, corrosion, kn, trunnion, cement, force, assembly, surface, damage",26_head_taper_corrosion_kn
+27,67,"costs, care, medicare, cost, episode, episode care, payment, readmissions, readmission, snf",27_costs_care_medicare_cost
+28,65,"proms, patient reported, medicare, completion, cms, collection, discharge, measures, prom, reported outcome",28_proms_patient reported_medicare_completion
+29,62,"machine learning, machine, learning, models, model, ml, validation, calibration, performance, curve",29_machine learning_machine_learning_models
+30,61,"functional, alignment, uka, function, satisfaction, flexion, angle, year follow, clinical outcomes, unicompartmental",30_functional_alignment_uka_function
+31,61,"iliopsoas, fusion, lumbar, dislocation, spinopelvic, spine, pathology, anterior, da, offset",31_iliopsoas_fusion_lumbar_dislocation
+32,60,"cost, cost effectiveness, effectiveness, cost effective, effective, costs, qaly, markov, adjusted life, quality adjusted",32_cost_cost effectiveness_effectiveness_cost effective
+33,58,"acetabular, osteolysis, hips, loosening, components, polyethylene, wear, acetabular components, revised, cup",33_acetabular_osteolysis_hips_loosening
+34,56,"opioid, narcotic, narcotics, opioids, pills, prescribed, discharge, consumption, spinal, mme",34_opioid_narcotic_narcotics_opioids
+35,54,"hr, revision risk, registry, risk revision, ci, hazard, cementless, cause, loosening, cemented",35_hr_revision risk_registry_risk revision
+36,52,"fractures, fracture, orif, stage, periprosthetic, vancouver, spacers, ppfx, direct anterior, anterior approach",36_fractures_fracture_orif_stage
+37,49,"collapse, onfh, hips, femoral head, osteotomy, head, stage, osteonecrosis femoral, progression, osteonecrosis",37_collapse_onfh_hips_femoral head
+38,47,"biofilm, cement, bone cement, bacterial, antibiotic, solutions, irrigation, elution, bacteria, vancomycin",38_biofilm_cement_bone cement_bacterial
+39,47,"osteotomy, dysplasia, hips, shortening, crowe, harris hip, harris, femoroacetabular, hip score, shortening osteotomy",39_osteotomy_dysplasia_hips_shortening
+40,46,"expectations, satisfaction, koos, function, sf, patient reported, mental, health, dissatisfaction, pain function",40_expectations_satisfaction_koos_function
+41,43,"questions, online, fellowship, search, responses, sites, information, google, web, aahks",41_questions_online_fellowship_search
+42,43,"acl, knees, ankle, varus, uka, medial, valgus, deformity, oa, recurvatum",42_acl_knees_ankle_varus
+43,42,"national joint, registry, cemented, hr, revision rates, national, australian, joint registry, size, stems",43_national joint_registry_cemented_hr
+44,42,"readmissions, readmission, hospital, day, costs, day readmission, care, medical, 90 day, cost",44_readmissions_readmission_hospital_day
+45,41,"daa, anterior, posterior, da, dislocation, pa, stiffness, dm, posterior approach, approaches",45_daa_anterior_posterior_da
+46,41,"survivorship, survival, ci, radiographic, loosening, aseptic, minimum, 95 ci, defects, mean follow",46_survivorship_survival_ci_radiographic
+47,41,"outpatient, day, asc, visits, readmission, discharge, day discharge, hospital, stay, protocol",47_outpatient_day_asc_visits
+48,41,"discharge, predictive, model, risk assessment, tool, outpatient, disposition, day, asa, auc",48_discharge_predictive_model_risk assessment
+49,39,"wear, mm, polyethylene, cross linked, linked, cross, heads, penetration, highly cross, linked polyethylene",49_wear_mm_polyethylene_cross linked
+50,38,"incision, invasive, minimally invasive, minimally, mini, muscle, sparing, mini incision, quadriceps, approaches",50_incision_invasive_minimally invasive_minimally
+51,38,"release, flexion, varus, stair, gait, medial, subjects, peak, balancing, pcl",51_release_flexion_varus_stair
+52,37,"contamination, air, noise, swabs, particles, bacterial, room, operating room, operating, particle",52_contamination_air_noise_swabs
+53,37,"standing, pelvic, spinopelvic, seated, sitting, lumbar, tilt, supine, pelvic tilt, spine",53_standing_pelvic_spinopelvic_seated
+54,36,"obese, morbidly obese, morbidly, bmi, obese patients, obesity, kg, outpatient, bmi 40, trends",54_obese_morbidly obese_morbidly_bmi
+55,36,"subsidence, dm, survivorship, cementless, loosening, year follow, aseptic, revisions, modular, implant",55_subsidence_dm_survivorship_cementless
+56,35,"alignment, varus, axis, valgus, ma, angle, femoral component, flexion, rotation, native",56_alignment_varus_axis_valgus
+57,34,"ceramic, stem, osteolysis, acetabular, exeter, bearing, hips, polyethylene, porous, ceramic ceramic",57_ceramic_stem_osteolysis_acetabular
+58,33,"eq, satisfaction, eq 5d, 5d, perception, waiting, life, expectations, sexual, quality life",58_eq_satisfaction_eq 5d_5d
+59,32,"fractures, eto, intertrochanteric, fracture, periprosthetic, unstable, fixation, trochanteric, periprosthetic femoral, extended trochanteric",59_fractures_eto_intertrochanteric_fracture
+60,32,"odds, matched, bariatric surgery, year years, bariatric, days, bmi, database, ra, ga",60_odds_matched_bariatric surgery_year years
+61,32,"fragility, rcts, iqr, consensus, reverse, systematic, panel, median, onfh, statistical",61_fragility_rcts_iqr_consensus
+62,31,"day, los, sdd, stay, readmission, visits, days, 90 day, medicare, discharged",62_day_los_sdd_stay
+63,28,"medial, flexion, rom, angle, laxity, lateral, tibial, patellar, pts, mm",63_medial_flexion_rom_angle
+64,27,"work, minutes, rvu, relative value, minute, staff, cost, value, care, spent",64_work_minutes_rvu_relative value
+65,25,"medicare, cms, reimbursement, payment, payments, episode, inpatient, services, pro, cjr",65_medicare_cms_reimbursement_payment
+66,25,"txa, blood, blood loss, transfusion, loss, acid, tranexamic acid, tranexamic, cost, hemoglobin",66_txa_blood_blood loss_transfusion
+67,25,"cardiac, outpatient, inpatient, ileus, si, hospital, day, home health, cardiac events, care",67_cardiac_outpatient_inpatient_ileus
+68,24,"procedures, projected, rtha, annual, septic revision, 2010, incidence, burden, joint preserving, covid",68_procedures_projected_rtha_annual
+69,24,"neurovascular, vastus, nerve, muscle, distance, anatomical, daa, bundle, cadaveric, anterior",69_neurovascular_vastus_nerve_muscle
+70,23,"stem, survival, loosening, survival rate, using modular, hips, modular, aseptic, aseptic loosening, term",70_stem_survival_loosening_survival rate
+71,22,"aki, vte, vancomycin, prophylaxis, incidence, asa, gastrointestinal, gastrointestinal bleeding, received, warfarin",71_aki_vte_vancomycin_prophylaxis
+72,22,"learning, deep learning, model, images, radiographs, notes, algorithms, deep, identification, trained",72_learning_deep learning_model_images
+73,22,"publication, authors, articles, publications, meetings, research, presentations, journal, cited, citations",73_publication_authors_articles_publications
+74,22,"physical therapy, therapy, directed, rehabilitation, self, physical, formal, home, pt, supervised",74_physical therapy_therapy_directed_rehabilitation
+75,22,"varus, alignment, valgus, ankle, angle, hka, limb, axis, mechanical axis, limb alignment",75_varus_alignment_valgus_ankle
+76,22,"transfusion, blood, hgb, txa, dl, blood loss, blood transfusion, tranexamic acid, tranexamic, hemoglobin",76_transfusion_blood_hgb_txa
+77,21,"btka, bmi, staged, bilateral, mua, weight loss, timing, day, staging, apart",77_btka_bmi_staged_bilateral
+78,21,"opioid, opioid use, opioids, narcotic, users, chronic opioid, chronic, prescriptions, prescription, prolonged",78_opioid_opioid use_opioids_narcotic
+79,21,"koos, simultaneous, depressed, fa, staged, patellar, native, overhang, thickness, koos pain",79_koos_simultaneous_depressed_fa
+80,21,"opioid, efficacy safety, opioid consumption, postoperative pain, consumption, american, regional, efficacy, pain opioid, safety",80_opioid_efficacy safety_opioid consumption_postoperative pain
+81,20,"degrees, knee society, society, knees, tibial, stiffness, polyethylene tibial, knee pain, polyethylene, anterior knee",81_degrees_knee society_society_knees
+82,20,"articles, journal, spin, published, journals, trials, rcts, orthopaedic, funding, publications",82_articles_journal_spin_published

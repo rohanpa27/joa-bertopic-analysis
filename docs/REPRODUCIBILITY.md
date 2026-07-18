@@ -64,6 +64,22 @@ python scripts/revision_analyses/R6_renumber_and_supp_figs.py
 python scripts/revision_analyses/R7_recompute_trends_2005_2025.py
 ```
 
-Scripts under `scripts/revision_analyses/` write to `Revisions/01_analyses/`
-and `Revisions/02_figures/` relative to the analysis working directory; adjust
-the `OUT` path at the top of each file if you reorganize.
+## A note on paths
+
+The scripts expect the pipeline's *working* layout, which is what
+`run_pipeline.sh` creates in the directory you run it from:
+
+```
+data/raw/  data/processed/  data/embeddings/
+outputs/tables/  outputs/figures/  outputs/models/
+Revisions/01_analyses/  Revisions/02_figures/     <- revision script outputs
+```
+
+The `results/` and `data/` directories in *this repository* are a published
+snapshot of those outputs, provided so the tables can be inspected without
+rerunning anything. They are not the paths the scripts read from or write to.
+
+To rerun the revision analyses end to end, run `run_pipeline.sh` first to
+populate `outputs/tables/`, create `Revisions/01_analyses/`, then run the R1-R7
+scripts from the same working directory. Each script defines its input and
+output paths in the first few lines if you prefer to point them elsewhere.

@@ -11,7 +11,7 @@ audited, and reused. It accompanies manuscript JOA-D-26-01834 (under review).
 ## Quick start
 
 ```bash
-git clone https://github.com/<OWNER>/joa-bertopic-analysis.git
+git clone https://github.com/rohanpa27/joa-bertopic-analysis.git
 cd joa-bertopic-analysis
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt

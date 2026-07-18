@@ -1,0 +1,13 @@
+Scope of the MIT license in this repository
+===========================================
+
+The MIT license in LICENSE covers the source code and the derived result tables
+distributed here.
+
+It does NOT extend to the underlying journal abstracts. Abstracts published in
+The Journal of Arthroplasty are copyright Elsevier and are deliberately not
+redistributed in this repository. Only PubMed identifiers, DOIs, titles and
+derived quantitative outputs are included, together with the retrieval script
+needed to regenerate the corpus locally from PubMed.
+
+See data/README.md for details.

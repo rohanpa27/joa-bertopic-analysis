@@ -1,0 +1,416 @@
+topic_id,final_clinical_label,rank,pmid,year,title
+0,Tranexamic Acid and Perioperative Blood Management,1,27067467,2016,A Randomized Controlled Trial Comparing Adductor Canal Catheter and Intraarticular Catheter After Primary Total Knee Arthroplasty.
+0,Tranexamic Acid and Perioperative Blood Management,2,35351553,2022,Liposomal Bupivacaine in Adductor Canal Blocks Before Total Knee Arthroplasty Leads to Improved Postoperative Outcomes: A Randomized Controlled Trial.
+0,Tranexamic Acid and Perioperative Blood Management,3,27259389,2016,Postoperative Pain Management After Primary Total Knee Arthroplasty: The Value of Liposomal Bupivacaine.
+0,Tranexamic Acid and Perioperative Blood Management,4,30401559,2019,Opioid-Sparing Analgesia and Enhanced Recovery After Total Knee Arthroplasty Using Combined Triple Nerve Blocks With Local Infiltration Analgesia.
+0,Tranexamic Acid and Perioperative Blood Management,5,28318860,2017,"A Prospective, Randomized Trial Comparing Liposomal Bupivacaine vs Fascia Iliaca Compartment Block for Postoperative Pain Control in Total Hip Arthroplasty."
+1,Acetabular Cup Orientation and Component Positioning,1,28111126,2017,Rigid Patient Positioning is Unreliable in Total Hip Arthroplasty.
+1,Acetabular Cup Orientation and Component Positioning,2,39954749,2025,Evaluating the Accuracy of a Computed Tomography-Based Mixed-Reality Navigation Tool for Acetabular Component Positioning in Total Hip Arthroplasty.
+1,Acetabular Cup Orientation and Component Positioning,3,26614747,2016,Independent Evaluation of a Mechanical Hip Socket Navigation System in Total Hip Arthroplasty.
+1,Acetabular Cup Orientation and Component Positioning,4,37075906,2023,Validation of a Novel Method of Measuring Cup Orientation Using BiPlanar Simultaneous Radiographic Images.
+1,Acetabular Cup Orientation and Component Positioning,5,27236745,2016,Even the Intraoperative Knowledge of Femoral Stem Anteversion Cannot Prevent Impingement in Total Hip Arthroplasty.
+2,Primary Total Hip Arthroplasty Technique and Outcomes,1,35301047,2022,Long-Term Follow-Up of Management of the Hypoplastic Femur With Femoral Episiotomy and Onlay Allograft During Total Hip Arthroplasty.
+2,Primary Total Hip Arthroplasty Technique and Outcomes,2,28410835,2017,Modified Extended Trochanteric Osteotomy for the Treatment of Vancouver B2/B3 Periprosthetic Fractures of the Femur.
+2,Primary Total Hip Arthroplasty Technique and Outcomes,3,29656965,2018,Total Hip Arthroplasty for Periacetabular Metastatic Disease. An Original Technique of Reconstruction According to the Harrington Classification.
+2,Primary Total Hip Arthroplasty Technique and Outcomes,4,29153632,2018,A 2- to 16-Year Clinical Follow-Up of Revision Total Hip Arthroplasty Using a New Acetabular Implant Combined With Impacted Bone Allografts and a Cemented Cup.
+2,Primary Total Hip Arthroplasty Technique and Outcomes,5,28529108,2017,"A 3- to 18-Year Follow-Up of Revision Total Hip Arthroplasty With Impacted Bone Allografts and Cemented Lubinus SP II Stem. Clinical, Radiographic, and Survivorship Analysis With Comparison to the Literature."
+3,Periprosthetic Joint Infection Diagnosis and Treatment,1,40683392,2026,"Outcome of Debridement, Antibiotics, and Implant Retention for Treatment of Late Acute Hematogenous Periprosthetic Joint Infections."
+3,Periprosthetic Joint Infection Diagnosis and Treatment,2,37179023,2023,Failed 2-Stage Revision Knee Arthroplasty for Periprosthetic Joint Infection-Patient Characteristics and Outcomes.
+3,Periprosthetic Joint Infection Diagnosis and Treatment,3,29555498,2018,Preoperative Anemia Is Associated With Failure of Open Debridement Polyethylene Exchange in Acute and Acute Hematogenous Prosthetic Joint Infection.
+3,Periprosthetic Joint Infection Diagnosis and Treatment,4,41106701,2026,Lower Reported Success Rates of Two-Stage Revisions for Periprosthetic Joint Infections Using Musculoskeletal Infection Society Outcome Reporting Tool at a Specialty Referral Center.
+3,Periprosthetic Joint Infection Diagnosis and Treatment,5,29691181,2018,Success of Two-Stage Reimplantation in Patients Requiring an Interim Spacer Exchange.
+4,KOOS and Knee-Specific PROMs,1,40972990,2026,Contralateral Total Knee Arthroplasty More Than One Year Apart: Do Patient-Reported Outcomes and Health Care Utilization Differ After Each Surgery?
+4,KOOS and Knee-Specific PROMs,2,39870332,2025,Recovery Time and Success: A Comparative Study of Robotic and Manual Total Hip Arthroplasty Outcomes.
+4,KOOS and Knee-Specific PROMs,3,40262680,2025,The Patient Acceptable Symptom State (PASS) has Little Utility Before Total Hip or Knee Arthroplasty.
+4,KOOS and Knee-Specific PROMs,4,35490979,2022,Validation of Single-Outcome Questionnaire in Primary TKA and THA.
+4,KOOS and Knee-Specific PROMs,5,36096272,2023,Obese Patients Achieve Good Improvements in Patient-Reported Outcome Measures After Medial Unicompartmental Knee Arthroplasty Despite a Lower Preoperative Score.
+5,Periprosthetic Joint Infection Epidemiology and Risk Factors,1,40675513,2026,Prior Cellulitis as a Risk Factor for Periprosthetic Joint Infection in Total Knee Arthroplasty: Influence of Timing and Antibiotic Prophylaxis.
+5,Periprosthetic Joint Infection Epidemiology and Risk Factors,2,32381445,2020,Urinary Self-Catheterization is Not Associated with Increased Risk of Major Complications Following Total Hip and Knee Arthroplasty.
+5,Periprosthetic Joint Infection Epidemiology and Risk Factors,3,39002769,2025,Outcomes of Total Hip Arthroplasty in Patients Who Have Ehlers-Danlos Syndrome: A Matched Cohort Study.
+5,Periprosthetic Joint Infection Epidemiology and Risk Factors,4,40334952,2025,Complications of Total Joint Arthroplasty in Patients Who Have a History of Coronary Artery Bypass Graft: A Propensity-Matched Cohort Study.
+5,Periprosthetic Joint Infection Epidemiology and Risk Factors,5,39233100,2025,Routine Prescription of Proton Pump Inhibitors in the Perioperative Period is Associated With Decreased Rates of 2-Year Revision Surgery After Total Hip and Knee Arthroplasty.
+6,Observational Study Reporting and Statistical Language,1,32197965,2020,"The Effects of Opioid Use on Thromboembolic Complications, Readmission Rates, and 90-Day Episode of Care Costs After Total Hip Arthroplasty."
+6,Observational Study Reporting and Statistical Language,2,36529200,2023,Chronic Opioid Use Independently Increases Complications and Resource Utilization After Primary Total Joint Arthroplasty.
+6,Observational Study Reporting and Statistical Language,3,32690429,2020,Mortality and Complications in Patients with Metastatic Disease after Primary Total Hip and Total Knee Arthroplasty.
+6,Observational Study Reporting and Statistical Language,4,37290568,2023,"Increased Complication Risk Associated With Simultaneous Bilateral Total Hip Arthroplasty: A Contemporary, Matched Cohort Analysis."
+6,Observational Study Reporting and Statistical Language,5,31337553,2019,"Does Hemophilia Increase Risk of Adverse Outcomes Following Total Hip and Knee Arthroplasty? A Propensity Score-Matched Analysis of a Nationwide, Population-Based Study."
+7,Systematic Reviews and Meta-Analyses,1,39128780,2025,Outcomes of Dual Mobility Versus Fixed-Bearing Components in Revision Total Hip Arthroplasty: A Systematic Review and Meta-Analysis.
+7,Systematic Reviews and Meta-Analyses,2,31053467,2019,The Efficacy and Safety of Inpatient Rehabilitation Compared With Home Discharge After Hip or Knee Arthroplasty: A Meta-Analysis and Systematic Review.
+7,Systematic Reviews and Meta-Analyses,3,40939941,2026,Evaluating the Efficacy of Dual Versus Single Antibiotic-Loaded Bone Cement in Hip Arthroplasty: A Systematic Review and Meta-Analysis.
+7,Systematic Reviews and Meta-Analyses,4,28341278,2017,Early Outcomes of Kinematic Alignment in Primary Total Knee Arthroplasty: A Meta-Analysis of the Literature.
+7,Systematic Reviews and Meta-Analyses,5,38754706,2024,Patient-Reported Outcomes and Range of Motion Following Knee Arthroplasty Using a Megaprosthesis in Non-Oncological Patients: A Systematic Review.
+8,"Knee Kinematics, Gap Balancing, and ROM",1,31784361,2020,Kinematic Performance of Gradually Variable Radius Posterior-Stabilized Primary TKA During Various Activities: An In Vivo Study Using Fluoroscopy.
+8,"Knee Kinematics, Gap Balancing, and ROM",2,29066105,2018,In Vivo Kinematic Comparison of a Bicruciate Stabilized Total Knee Arthroplasty and the Normal Knee Using Fluoroscopy.
+8,"Knee Kinematics, Gap Balancing, and ROM",3,32111514,2020,In Vivo Knee Kinematics for a Cruciate Sacrificing Total Knee Arthroplasty Having Both a Symmetrical Femoral and Tibial Component.
+8,"Knee Kinematics, Gap Balancing, and ROM",4,40685029,2026,The Effect of Component Design and Tibial Tray Orientation on Weight-Bearing Postoperative Kinematics for Total Knee Arthroplasty: A Parametric Analysis of Multiple Variables.
+8,"Knee Kinematics, Gap Balancing, and ROM",5,15902853,2005,In vivo determination of knee kinematics for Japanese subjects having either a low contact stress rotating platform or an anteroposterior glide total knee arthroplasty.
+9,Periprosthetic Joint Infection Diagnosis and Treatment (Synovial),1,41276235,2025,Synovial Absolute Neutrophil Count as a Superior Diagnostic Biomarker for Acute Periprosthetic Joint Infection in Hip and Knee Arthroplasty With Low-Virulence Organisms.
+9,Periprosthetic Joint Infection Diagnosis and Treatment (Synovial),2,31307871,2019,Reevaluating Current Cutoffs for Acute Periprosthetic Joint Infection: Current Thresholds Are Insensitive.
+9,Periprosthetic Joint Infection Diagnosis and Treatment (Synovial),3,40617547,2026,Synovial Biomarkers C-Reactive Protein and Calprotectin for Diagnosing Chronic Periprosthetic Joint Infection: A Prospective Multicenter Evaluation.
+9,Periprosthetic Joint Infection Diagnosis and Treatment (Synovial),4,40209824,2025,What Is the Diagnostic Performance and Accuracy of Serum Inflammatory Biomarkers and Synovial Fluid Analysis in Megaprosthetic Periprosthetic Joint Infections?
+9,Periprosthetic Joint Infection Diagnosis and Treatment (Synovial),5,26994651,2016,Utility of Serum Inflammatory and Synovial Fluid Counts in the Diagnosis of Infection in Taper Corrosion of Dual Taper Modular Stems.
+10,Aseptic Loosening of Hip and Knee Implants,1,41161509,2025,Outcomes and Implant Survival in Lateral Unicompartmental Knee Arthroplasty: The Path Less Traveled.
+10,Aseptic Loosening of Hip and Knee Implants,2,29706257,2018,Primary Total Knee Arthroplasty in Patients With Neuropathic (Charcot) Arthropathy: Contemporary Results.
+10,Aseptic Loosening of Hip and Knee Implants,3,40373833,2025,Outcomes of Primary Cementless Femoral Stems Used in Revision Hip Arthroplasty.
+10,Aseptic Loosening of Hip and Knee Implants,4,41138995,2025,Unicompartmental Knee Arthroplasty for Isolated Compartment Osteonecrosis: A 20-Year Experience.
+10,Aseptic Loosening of Hip and Knee Implants,5,39903456,2025,Contemporary Outcomes of Proximal Femoral Replacement as a Salvage Treatment in Nononcologic Severe Bone Loss.
+11,Aspirin vs Anticoagulant VTE Prophylaxis,1,35026368,2022,Aspirin Administered for Venous Thromboembolism Prophylaxis May Protect Against Stiffness Following Total Knee Arthroplasty.
+11,Aspirin vs Anticoagulant VTE Prophylaxis,2,28947374,2018,Increased Incidence of Bleeding and Wound Complications With Factor-Xa Inhibitors After Total Joint Arthroplasty.
+11,Aspirin vs Anticoagulant VTE Prophylaxis,3,34140207,2021,Comparison of Surgical Site Complications With Negative Pressure Wound Therapy vs Silver Impregnated Dressing in High-Risk Total Knee Arthroplasty Patients: A Matched Cohort Study.
+11,Aspirin vs Anticoagulant VTE Prophylaxis,4,35843380,2022,Low-Dose Aspirin for Venous Thromboembolism Prophylaxis is Associated With Lower Rates of Periprosthetic Joint Infection After Total Joint Arthroplasty.
+11,Aspirin vs Anticoagulant VTE Prophylaxis,5,28869115,2018,Wound Discharge After Pharmacological Thromboprophylaxis in Lower Limb Arthroplasty.
+12,Ceramic-on-Ceramic Bearings and Fracture,1,31200989,2019,Long-Term Outcomes of Ultra-Short Metaphyseal-Fitting Anatomic Cementless Femoral Stem in Total Hip Arthroplasty With Ceramic-on-Ceramic Articulation for Young Patients.
+12,Ceramic-on-Ceramic Bearings and Fracture,2,29656971,2018,Long-Term Outcomes After Metal-on-Metal Total Hip Arthroplasty With a 28-mm Head: A 17- to 23-Year Follow-Up Study of a Previous Report.
+12,Ceramic-on-Ceramic Bearings and Fracture,3,28697865,2017,Revision Total Hip Arthroplasty Using a Cementless Cup Supporter and Iliac Autograft: A Minimum of 15-Year Follow-Up.
+12,Ceramic-on-Ceramic Bearings and Fracture,4,32359958,2020,The Long-Term Results of Total Hip Arthroplasty With a Cemented β-Titanium Stem.
+12,Ceramic-on-Ceramic Bearings and Fracture,5,34843912,2022,Long-Term Results of Alumina Ceramic-On-Ceramic Bearings in Cementless Total Hip Arthroplasty: A 20-Year Minimum Follow-Up.
+13,Case Reports of Unusual Arthroplasty Complications,1,22771093,2013,Protrusion of an artificial femoral head: a rare complication of chronic dislocation of the prosthetic hip.
+13,Case Reports of Unusual Arthroplasty Complications,2,18701239,2009,Hemorrhagic iliopsoas bursitis complicating well-functioning ceramic-on-ceramic total hip arthroplasty.
+13,Case Reports of Unusual Arthroplasty Complications,3,17400103,2007,Extravascular compression of the femoral vein due to wear debris-induced iliopsoas bursitis: a rare cause of leg swelling after total hip arthroplasty.
+13,Case Reports of Unusual Arthroplasty Complications,4,17275649,2007,Acetabular prosthetic protrusion and sepsis: case report and review of the literature.
+13,Case Reports of Unusual Arthroplasty Complications,5,20810236,2011,A late vascular complication due to component migration after revision total hip arthroplasty.
+14,THA Survivorship and Long-Term Aseptic Loosening,1,35271978,2022,Minimum Five-Year Outcomes of Modular Dual Mobility in Primary Total Hip Arthroplasty.
+14,THA Survivorship and Long-Term Aseptic Loosening,2,38244641,2024,Survival Rates and Patient-Reported Outcomes Support the Use of Custom Cement-Over Megaprosthesis (CCOM) in Complex Revision Lower Limb Arthroplasty.
+14,THA Survivorship and Long-Term Aseptic Loosening,3,31079992,2019,Osteointegrative Sleeves for Metaphyseal Defect Augmentation in Revision Total Knee Arthroplasty: Clinical and Radiological 5-Year Follow-Up.
+14,THA Survivorship and Long-Term Aseptic Loosening,4,34183212,2021,High Survivorship of Short-Cemented Femoral Stems in Condylar Revision Total Knee Arthroplasty Without Significant Metaphyseal Bone Loss: Minimum 5-Year Follow-Up.
+14,THA Survivorship and Long-Term Aseptic Loosening,5,27006147,2016,Midterm Survivorship of the Lefèvre Constrained Liner: A Consecutive Multisurgeon Series of 166 Cases.
+15,Medicare Reimbursement and Bundled Payments,1,32829971,2021,Target Price Adjustment for Hip Fractures Is Not Sufficient in the Bundled Payments for Care Improvement Initiative.
+15,Medicare Reimbursement and Bundled Payments,2,42055227,2026,An Unsustainable Reimbursement Model: A 12-Year Analysis of Compensation for Revision Total Hip Arthroplasty.
+15,Medicare Reimbursement and Bundled Payments,3,31101390,2019,"A Novel, Synergistic Model in Total Joint Arthroplasty: A Report of 2 Specialty Hospitals With Joint Ownership Between Physicians and Healthcare Systems."
+15,Medicare Reimbursement and Bundled Payments,4,39357685,2025,Recent Medicare Billing Trends of Hospitals and Surgeons for Revision Hip and Knee Total Joint Arthroplasty: Is the Value of a Surgeon's Work Decreasing?
+15,Medicare Reimbursement and Bundled Payments,5,38735550,2024,Risk Versus Reward: Hospitals Incentivized More Than Surgeons to Care for Riskier Arthroplasty Patients.
+16,Implant Retrieval and Corrosion Analysis,1,33610405,2021,"Fretting Corrosion, Third-Body Polyethylene Damage, and Cup Positioning in Primary vs Revision Dual Mobility Total Hip Arthroplasty."
+16,Implant Retrieval and Corrosion Analysis,2,38906197,2024,Oxidation and Damage Mechanisms of Second-Generation Highly Cross-Linked Polyethylene Tibial Inserts.
+16,Implant Retrieval and Corrosion Analysis,3,30853157,2019,Fretting and Corrosion Damage of Retrieved Dual-Mobility Total Hip Arthroplasty Systems.
+16,Implant Retrieval and Corrosion Analysis,4,29329883,2018,"Oxidation, Damage Mechanisms, and Reasons for Revision of Sequentially Annealed Highly Crosslinked Polyethylene in Total Knee Arthroplasty."
+16,Implant Retrieval and Corrosion Analysis,5,40480330,2025,Crevice Corrosion Degrades Metaphyseal Sleeves Following Total Knee Arthroplasty: A Retrieval Study.
+17,Metal Ion Release and Cobalt-Chromium Toxicity,1,28392135,2017,Ten-Year Cross-Sectional Study of Mechanically Assisted Crevice Corrosion in 1352 Consecutive Patients With Metal-on-Polyethylene Total Hip Arthroplasty.
+17,Metal Ion Release and Cobalt-Chromium Toxicity,2,29958755,2018,Risk Factors Associated With Early Complications of Revision Surgery for Head-Neck Taper Corrosion in Metal-on-Polyethylene Total Hip Arthroplasty.
+17,Metal Ion Release and Cobalt-Chromium Toxicity,3,32197964,2020,Patients Following Revision Total Hip Arthroplasty With Modular Dual Mobility Components and Cobalt-Chromium Inner Metal Head are at Risk of Increased Serum Metal Ion Levels.
+17,Metal Ion Release and Cobalt-Chromium Toxicity,4,40349877,2025,Serum Metal Ion Levels in Modular Dual Mobility Liners After Total Hip Arthroplasty: A Comparison by Years and Implant Manufacturers.
+17,Metal Ion Release and Cobalt-Chromium Toxicity,5,39426441,2025,Do Intra-articular Metal Ion Levels Predict Adverse Local Tissue Reaction in Revision Total Hip Arthroplasty for Mechanically Assisted Crevice Corrosion?
+18,Polyethylene Liner Performance,1,17197323,2007,Catastrophic failure of a modular revision total hip polyethylene insert.
+18,Polyethylene Liner Performance,2,21507603,2012,Fracture of the outer metallic head of the bipolar hip prosthesis: an unusual bearing surface failure.
+18,Polyethylene Liner Performance,3,18835691,2009,Modular femoral stem-sleeve junction failure after primary total hip arthroplasty.
+18,Polyethylene Liner Performance,4,18514888,2008,Catastrophic failure of ceramic-polyethylene bearing total hip arthroplasty.
+18,Polyethylene Liner Performance,5,20022458,2010,Unexpected finding of a fractured metal prosthetic femoral head in a nonmodular implant during revision total hip arthroplasty.
+19,"Patellar Resurfacing, PCL Management, and Knee Design",1,32265142,2020,Does Unicompartmental Knee Replacement Offer Improved Clinical Advantages Over Total Knee Replacement in the Treatment of Isolated Lateral Osteoarthritis? A Matched Cohort Analysis From an Independent Center.
+19,"Patellar Resurfacing, PCL Management, and Knee Design",2,37598783,2024,"Better Flexion but Unaffected Satisfaction After Treatment With Posterior Stabilized Versus Cruciate Retaining Total Knee Arthroplasty - 2-year Results of a Prospective, Randomized Trial."
+19,"Patellar Resurfacing, PCL Management, and Knee Design",3,37321517,2024,Medialized Dome and Anatomic Onlay Patella Designs in the Modern Posterior Stabilized Rotating Platform Total Knee Arthroplasty Demonstrate No Clinical or Radiological Differences at One Year.
+19,"Patellar Resurfacing, PCL Management, and Knee Design",4,27600300,2017,Clinical and Radiographic Results of Attune and PFC Sigma Knee Designs at 2-Year Follow-Up: A Prospective Matched-Pair Analysis.
+19,"Patellar Resurfacing, PCL Management, and Knee Design",5,41856297,2026,Equivalent Functional Outcomes in Cruciate-Retaining and Posterior-Stabilized Total Knee Arthroplasty for Knee Osteoarthritis with Severe Fixed Flexion Deformity: A Propensity Matched-Pair Analysis.
+20,Depression and Mental Health in Arthroplasty,1,32446627,2020,Do Patients With Psychological Distress Have Poorer Patient-Reported Outcomes After Total Hip Arthroplasty?
+20,Depression and Mental Health in Arthroplasty,2,32475784,2020,Ten-Year Results of Unicompartmental Knee Arthroplasty in Patients With Psychological Distress.
+20,Depression and Mental Health in Arthroplasty,3,35569706,2022,Effect of Weight Change on Patient-Reported Outcomes Following Total Joint Arthroplasty.
+20,Depression and Mental Health in Arthroplasty,4,33812719,2021,Preoperative Mental Health Influences Patient-Reported Outcome Measures and Satisfaction After Revision Total Knee Arthroplasty.
+20,Depression and Mental Health in Arthroplasty,5,31495530,2020,Depression Treatment Is Not Associated With Improved Patient-Reported Outcomes Following Total Joint Arthroplasty.
+21,Adverse Local Tissue Reactions and Implant Corrosion,1,35101592,2022,Metal Articulations as a Source of Total Hip Arthroplasty Pain.
+21,Adverse Local Tissue Reactions and Implant Corrosion,2,32081501,2020,Metal-on-Metal Total Hip Revisions: Pearls and Pitfalls.
+21,Adverse Local Tissue Reactions and Implant Corrosion,3,33549418,2021,Clinical Concerns With Dual Mobility- Should I Avoid it When Possible?
+21,Adverse Local Tissue Reactions and Implant Corrosion,4,20541890,2011,Oblique posterior trochanteric osteotomy in revision total hip arthroplasty.
+21,Adverse Local Tissue Reactions and Implant Corrosion,5,38458333,2024,"Cementless Total Knee Arthroplasty: A Resurgence-Who, When, Where, and How?"
+22,AAHKS Member Survey Studies,1,37295626,2023,Limiting Factors for Indication of Hip and Knee Arthroplasty in Chile: The International Perception of Risk Initiative.
+22,AAHKS Member Survey Studies,2,36773665,2023,Perception of Perioperative Risk for Arthroplasty Patients: A Poll of Indian Orthopedic Surgeons.
+22,AAHKS Member Survey Studies,3,32731999,2020,"Robotic Surgery in Total Joint Arthroplasty: A Survey of the AAHKS Membership to Understand the Utilization, Motivations, and Perceptions of Total Joint Surgeons."
+22,AAHKS Member Survey Studies,4,31076194,2019,Current Trends in Clinical Practice for the Direct Anterior Approach Total Hip Arthroplasty.
+22,AAHKS Member Survey Studies,5,27817996,2017,Patient Perceptions of the Direct Anterior Hip Arthroplasty.
+23,Value-Based Care and Alternative Payment Models,1,38336300,2024,A Cautionary Tale: Malaligned Incentives in Total Hip and Knee Arthroplasty Payment Model Reforms Threaten Promising Innovation and Access to Care.
+23,Value-Based Care and Alternative Payment Models,2,24034511,2013,Bundled payments for care improvement initiative: the next evolution of payment formulations: AAHKS Bundled Payment Task Force.
+23,Value-Based Care and Alternative Payment Models,3,38278186,2024,New CMS Merit-Based Incentive Payment System Value Pathway After Total Knee and Hip Arthroplasty: Preparing for Mandatory Reporting.
+23,Value-Based Care and Alternative Payment Models,4,33785228,2021,Techniques and Strategies to Optimize Efficiencies in the Office and Operating Room: Getting Through the Patient Backlog and Preserving Hospital Resources.
+23,Value-Based Care and Alternative Payment Models,5,34942346,2022,"How the Shift in Arthroplasty Surgery Location Impacts the Relationship of Private Surgeons, Hospitals, and Ambulatory Surgery Centers."
+24,Biomechanical Testing and Implant Stability,1,33958253,2021,How Does Contact Length Impact Titanium Tapered Splined Stem Stability: A Biomechanical Matched Pair Cadaveric Study.
+24,Biomechanical Testing and Implant Stability,2,27381372,2016,Plate Positioning in Periprosthetic or Interprosthetic Femur Fractures With Stable Implants-A Biomechanical Study.
+24,Biomechanical Testing and Implant Stability,3,28209401,2017,The Effect of Prophylactic Cerclage Wires in Primary Total Hip Arthroplasty: A Biomechanical Study.
+24,Biomechanical Testing and Implant Stability,4,26639983,2016,Does Increased Coefficient of Friction of Highly Porous Metal Increase Initial Stability at the Acetabular Interface?
+24,Biomechanical Testing and Implant Stability,5,26989031,2016,Application of Far Cortical Locking Technology in Periprosthetic Femoral Fracture Fixation: A Biomechanical Study.
+25,Implant Survival Analysis and Competing Risk Methods,1,33199094,2021,Contemporary Mortality Rate and Outcomes in Nonagenarians Undergoing Primary Total Hip Arthroplasty.
+25,Implant Survival Analysis and Competing Risk Methods,2,40473057,2025,Total Hip Arthroplasty in Patients Under 30 Years Who Have Osteonecrosis of the Femoral Head: Mean Follow-Up of More than 120 Months.
+25,Implant Survival Analysis and Competing Risk Methods,3,33036842,2021,"Long-Term Results of Total Hip Arthroplasty in Young Patients With Osteonecrosis After Allogeneic Bone Marrow Transplantation for Hematological Disease: A Multicenter, Propensity-Matched Cohort Study With a Mean 11-Year Follow-Up."
+25,Implant Survival Analysis and Competing Risk Methods,4,27325368,2016,Cementless Tapered Femoral Stems for Total Hip Arthroplasty in Octogenarians.
+25,Implant Survival Analysis and Competing Risk Methods,5,28108170,2017,Birmingham Hip Resurfacing in Patients 55 Years or Younger: Risk Factors for Poor Midterm Outcomes.
+26,Femoral Head Taper Corrosion and Modular Junction Failure,1,30100136,2018,Head Taper Corrosion Causing Head Bottoming Out and Consecutive Gross Stem Taper Failure in Total Hip Arthroplasty.
+26,Femoral Head Taper Corrosion and Modular Junction Failure,2,25817187,2015,Corrosion and Fretting of a Modular Hip System: A Retrieval Analysis of 60 Rejuvenate Stems.
+26,Femoral Head Taper Corrosion and Modular Junction Failure,3,27004680,2016,Comparative Fixation and Subsidence Profiles of Cementless Unicompartmental Knee Arthroplasty Implants.
+26,Femoral Head Taper Corrosion and Modular Junction Failure,4,38479635,2024,The Frank Stinchfield Award: Assembly and Dissociation Forces Differ Between Commonly Used Dual Mobility Implants: A Biomechanical Study.
+26,Femoral Head Taper Corrosion and Modular Junction Failure,5,32826144,2021,Biomechanical Comparison of Periprosthetic Femoral Fracture Risk in Three Femoral Components in a Sawbone Model.
+27,Medicare Reimbursement and Bundled Payments (Costs),1,35091031,2022,Demand Matching Total Joint Replacement Patients Results in Reduction of Post-Discharge Costs.
+27,Medicare Reimbursement and Bundled Payments (Costs),2,30755375,2019,How Much Does a Readmission Cost the Bundle Following Primary Hip and Knee Arthroplasty?
+27,Medicare Reimbursement and Bundled Payments (Costs),3,26880328,2016,Clinical Outcomes and Costs Within 90 Days of Primary or Revision Total Joint Arthroplasty.
+27,Medicare Reimbursement and Bundled Payments (Costs),4,40505747,2026,Evaluating Postoperative Follow-Up in Total Hip and Knee Arthroplasty: A Six-Year Review of Current Procedural Terminology Code 99024 and the Role of Comorbidity in Visit Frequency.
+27,Medicare Reimbursement and Bundled Payments (Costs),5,28844631,2018,Improving Value in Total Hip and Knee Arthroplasty: The Role of High Volume Hospitals.
+28,Medicare Reimbursement and Bundled Payments (PROMs),1,35256234,2022,The Impact of Patient Resilience on Discharge After Total Hip Arthroplasty.
+28,Medicare Reimbursement and Bundled Payments (PROMs),2,40706717,2026,"Patient, Hospital, and Outcome Factors Associated With Attaining Substantial Clinical Benefit Following Primary Total Hip Arthroplasty."
+28,Medicare Reimbursement and Bundled Payments (PROMs),3,39413859,2025,Preoperative Osteoporosis Is Associated With Increased Health Care Utilization and Compromised Pain and Function Improvement After Primary Total Hip Arthroplasty: A Prospective Cohort Analysis.
+28,Medicare Reimbursement and Bundled Payments (PROMs),4,38401614,2024,Impact of Chronic Opioid Use on Postoperative Mobility Recovery and Patient-Reported Outcomes: A Propensity-Matched Study.
+28,Medicare Reimbursement and Bundled Payments (PROMs),5,39586411,2025,Evaluating Patient-Reported Outcome Measure Collection and Attainment of Substantial Clinical Benefit in Total Joint Arthroplasty Patients.
+29,Machine Learning Prediction of Arthroplasty Outcomes,1,39489386,2025,Data-Driven Approach to Development of a Risk Score for Periprosthetic Joint Infections in Total Joint Arthroplasty Using Electronic Health Records.
+29,Machine Learning Prediction of Arthroplasty Outcomes,2,37315632,2023,Validation of Machine Learning Model Performance in Predicting Blood Transfusion After Primary and Revision Total Hip Arthroplasty.
+29,Machine Learning Prediction of Arthroplasty Outcomes,3,32564970,2020,Development of Machine Learning Algorithms to Predict Patient Dissatisfaction After Primary Total Knee Arthroplasty.
+29,Machine Learning Prediction of Arthroplasty Outcomes,4,40912339,2026,Utility of Multiclass Machine Learning Algorithms in Predicting Same-Day Discharge Following Primary Total Knee Arthroplasty.
+29,Machine Learning Prediction of Arthroplasty Outcomes,5,36849013,2023,Validation and Generalizability of Machine Learning Models for the Prediction of Discharge Disposition Following Revision Total Knee Arthroplasty.
+30,Unicompartmental Knee Arthroplasty Functional Outcomes,1,33243585,2021,Long-Term Functional Outcomes and Quality of Life at Minimum 10-Year Follow-Up After Fixed-Bearing Unicompartmental Knee Arthroplasty and Total Knee Arthroplasty for Isolated Medial Compartment Osteoarthritis.
+30,Unicompartmental Knee Arthroplasty Functional Outcomes,2,28993076,2018,"Unicompartmental Knee Arthroplasty Achieves Greater Flexion With No Difference in Functional Outcome, Quality of Life, and Satisfaction vs Total Knee Arthroplasty in Patients Younger Than 55 Years. A Propensity Score-Matched Cohort Analysis."
+30,Unicompartmental Knee Arthroplasty Functional Outcomes,3,40659227,2026,"Lateral and Medial Unicompartmental Knee Arthroplasty Have Similar Reoperation Rates, Patient-Reported Outcomes, and Functional Performance in a Two-Year Follow-Up Period."
+30,Unicompartmental Knee Arthroplasty Functional Outcomes,4,37271236,2023,Midvastus Versus Medial Parapatellar Approach in Simultaneous Bilateral Total Knee Arthroplasty.
+30,Unicompartmental Knee Arthroplasty Functional Outcomes,5,31735490,2020,Sagittal Stability and Implant Design Affect Patient Reported Outcomes After Total Knee Arthroplasty.
+31,Hip-Spine Syndrome and Lumbar Fusion After THA,1,42069013,2026,Risk Factors Associated With Osteonecrosis of the Femoral Head After Undergoing Lumbar Decompression and Fusion.
+31,Hip-Spine Syndrome and Lumbar Fusion After THA,2,33414039,2021,"Iliopsoas Impingement After Direct Anterior Approach Total Hip Arthroplasty: Epidemiology, Risk Factors, and Treatment Options."
+31,Hip-Spine Syndrome and Lumbar Fusion After THA,3,36257506,2023,Risk Factors for Iliopsoas Tendinopathy After Anterior Approach Total Hip Arthroplasty.
+31,Hip-Spine Syndrome and Lumbar Fusion After THA,4,38909856,2024,Risk Factors for Trochanteric Bursitis Following Total Hip Arthroplasty: A Radiographic Analysis.
+31,Hip-Spine Syndrome and Lumbar Fusion After THA,5,32828621,2021,Asymptomatic Gluteal Tendinopathies Negatively Impact Outcomes of Total Hip Arthroplasty: A Propensity Score-Matched Study.
+32,Cost-Effectiveness of Joint Arthroplasty,1,34592356,2022,Cost-Effectiveness of Preoperative Spinal Imaging Before Total Hip Arthroplasty.
+32,Cost-Effectiveness of Joint Arthroplasty,2,32933797,2021,Preoperative Allergy Testing for Patients Reporting Penicillin and Cephalosporin Allergies is Cost-Effective in Preventing Infection after Total Knee and Hip Arthroplasty.
+32,Cost-Effectiveness of Joint Arthroplasty,3,37858709,2024,The Financial Burden of Aspirin versus Oral Factor Xa Inhibitors for Thromboprophylaxis Following Total Knee Arthroplasty.
+32,Cost-Effectiveness of Joint Arthroplasty,4,33775467,2021,Perioperative Medical Optimization of Symptomatic Benign Prostatic Hyperplasia Is an Economically Justified Infection Prevention Strategy in Total Joint Arthroplasty.
+32,Cost-Effectiveness of Joint Arthroplasty,5,36470363,2023,Early Total Hip Arthroplasty is a Cost-Effective Treatment for Severe Radiographic Slipped Capital Femoral Epiphysis Over an Individual's Lifetime.
+33,Osteolysis and Implant Loosening,1,27067469,2016,Hip Resurfacing Using Highly Cross-linked Polyethylene: Prospective Study Results at 8.5 Years.
+33,Osteolysis and Implant Loosening,2,21266305,2011,Midterm results of 506 solid trispiked reflection cementless acetabular components for primary total hip arthroplasty.
+33,Osteolysis and Implant Loosening,3,23146368,2012,Ten- to 15-year clinical and radiographic results for a compression molded monoblock elliptical acetabular component.
+33,Osteolysis and Implant Loosening,4,21550764,2011,Early failure of articular surface replacement XL total hip arthroplasty.
+33,Osteolysis and Implant Loosening,5,21466945,2011,Primary total hip arthroplasty with an uncemented femoral component five- to nine-year results.
+34,"Opioid Use, Prescription Patterns, and Stewardship",1,30890391,2019,Effect of Adductor Canal Block on Acute Perioperative Pain and Function in Total Knee Arthroplasty.
+34,"Opioid Use, Prescription Patterns, and Stewardship",2,38599532,2024,Intraoperative Surgeon-Administered Adductor Canal Block Is a Safe Alternative to Preoperative Anesthesiologist-Administered Adductor Canal Block in Primary Total Knee Arthroplasty.
+34,"Opioid Use, Prescription Patterns, and Stewardship",3,33610407,2021,"Discontinuation of Intraoperative Liposomal Bupivacaine in Primary THA Does Not Clinically Change Postoperative Subjective Pain, Opioid Consumption, or Objective Functional Status."
+34,"Opioid Use, Prescription Patterns, and Stewardship",4,39617272,2025,Implementation of a Patient-Specific Opioid Taper Calculator for Total Hip and Knee Arthroplasty: A Pre- and Post-Implementation Study.
+34,"Opioid Use, Prescription Patterns, and Stewardship",5,22386610,2012,Retrospective evaluation of inpatient celecoxib use after total hip and knee arthroplasty at a Veterans Affairs Medical Center.
+35,Registry-Based Revision Risk and Implant Survivorship,1,39127311,2025,Survivorship of Modern Cementless Total Knee Arthroplasty: Analysis From the Canadian Joint Replacement Registry.
+35,Registry-Based Revision Risk and Implant Survivorship,2,41999789,2026,High-Offset Stems Are Associated With an Increase in Revision due to Femoral Loosening and All-Cause: A Registry-Based Observational Retrospective Cohort Study.
+35,Registry-Based Revision Risk and Implant Survivorship,3,39551405,2025,"No Increased Risk of Patella-Related Revisions When Comparing Ultra-Congruent versus Cruciate-Retaining Polyethylene Liners in Primary Total Knee Arthroplasties With an Unresurfaced Patella: An Australian Registry Study of 42,105 Knee Arthroplasties."
+35,Registry-Based Revision Risk and Implant Survivorship,4,40645531,2026,Taper-Slip Cemented Femoral Stem Designs Are Associated With Higher Periprosthetic Fracture Risk Compared to Composite-Beam in a United States Health Care System.
+35,Registry-Based Revision Risk and Implant Survivorship,5,42031181,2026,Minimum Two-Year Survivorship of Large Femoral Heads With Titanium Sleeves in Primary Total Hip Arthroplasty: An Analysis From the American Joint Replacement Registry.
+36,Periprosthetic Fracture Treatment and Fixation,1,33736894,2021,"Periprosthetic Femur Fracture Risk: Influenced by Stem Choice, Not Surgical Approach."
+36,Periprosthetic Fracture Treatment and Fixation,2,39419415,2025,Does Femoral Stem Design Influence Periprosthetic Fracture Incidence and Morphology in Total Hip Arthroplasty?
+36,Periprosthetic Fracture Treatment and Fixation,3,39492431,2023,Low Risk of Fracture Using a Cementless Triple-tapered Collared Femoral Stem with Automated Impaction in Direct Anterior Approach Total Hip Arthroplasty.
+36,Periprosthetic Fracture Treatment and Fixation,4,40403887,2025,Prophylactic Cabling of the Femur in Revision Total Hip Arthroplasty Lowers the Risk of Vancouver B2 and B3 Acute Periprosthetic Fractures and Reoperations.
+36,Periprosthetic Fracture Treatment and Fixation,5,38253188,2024,Cemented Versus Cementless Femoral Fixation for Total Hip Arthroplasty Following Femoral Neck Fracture in Patients Aged 65 and Older.
+37,Femoral Head Collapse and Osteonecrosis,1,38735548,2024,Use of 1.5-Stage Functional Articulating Hip Spacers for Two-Stage Treatment of Hip Infection.
+37,Femoral Head Collapse and Osteonecrosis,2,26948130,2016,Medial Protrusio Technique in Cementless Total Hip Arthroplasty for Developmental Dysplasia of the Hip: A Prospective 6- to 9-Year Follow-Up of 43 Consecutive Patients.
+37,Femoral Head Collapse and Osteonecrosis,3,36924857,2023,Efficacy of Modified Lightbulb Technique by Percutaneous Femoral Neck-Head Fenestration Combined With Compacted Artificial Bone Graft for Treating Precollapse Osteonecrosis of the Femoral Head.
+37,Femoral Head Collapse and Osteonecrosis,4,35490978,2022,Impaction Bone Grafting Augmented With a Wire Coil by the Lightbulb Technique for Osteonecrosis of the Femoral Head.
+37,Femoral Head Collapse and Osteonecrosis,5,39433262,2025,Surgical Outcomes of Total Hip Arthroplasty With Paavilainen Osteotomy in Patients Who Have High Developmental Hip Dislocation: Mean 4.4-Year Follow-Up.
+38,Implant Biofilm and Infection Biology,1,30935799,2019,Comparative Study of Antibiotic Elution Profiles From Alternative Formulations of Polymethylmethacrylate Bone Cement.
+38,Implant Biofilm and Infection Biology,2,39233097,2025,Biofilm Formation is Durably Prevented on Pre-Fabricated Antibiotic Cement Spacers Compared to Cobalt Chrome and Polyethylene.
+38,Implant Biofilm and Infection Biology,3,28690040,2017,Bioactivity of Ceftazidime and Fluconazole Included in Polymethyl Methacrylate Bone Cement for Use in Arthroplasty.
+38,Implant Biofilm and Infection Biology,4,41270988,2025,The In Vitro Performance of Surgical Irrigation Solutions in Preventing Biofilm Formation on Implants.
+38,Implant Biofilm and Infection Biology,5,28420544,2017,Disclosing Agents for the Intraoperative Identification of Biofilms on Orthopedic Implants.
+39,Hip Dysplasia and Periacetabular Osteotomy,1,32418741,2020,Comparison of Trochanteric Slide and Subtrochanteric Shortening Osteotomy in the Treatment of Severe Hip Dysplasia: Mid-Term Clinical Outcomes of Cementless Total Hip Arthroplasty.
+39,Hip Dysplasia and Periacetabular Osteotomy,2,28529111,2017,The Results of Total Hip Arthroplasty After Sugioka Transtrochanteric Anterior Rotational Osteotomy for Osteonecrosis.
+39,Hip Dysplasia and Periacetabular Osteotomy,3,41519490,2026,Outcomes of Curved Intertrochanteric Varus Osteotomy for Osteonecrosis of the Femoral Head With a Beak-Shaped Healthy Area.
+39,Hip Dysplasia and Periacetabular Osteotomy,4,41016608,2026,Comparison of Outcomes in Total Hip Arthroplasty for Unilateral Crowe Type IV Hip Dislocation With and Without Femoral Shortening Osteotomy: Determining Factors for Shortening.
+39,Hip Dysplasia and Periacetabular Osteotomy,5,27036922,2016,Significantly Poor Outcomes of Total Hip Arthroplasty After Failed Periacetabular Osteotomy.
+40,KOOS and Knee-Specific PROMs (Expectations),1,40068725,2025,The Chitranjan S. Ranawat Award: Factors That Predict Outcome Five Years Following Total Knee Arthroplasty.
+40,KOOS and Knee-Specific PROMs (Expectations),2,38309635,2024,"Despite Greater Improvement in Pain and Function Among Obese Patients Shortly After Total Knee Arthroplasty, There is No Difference in Patient-Reported Outcomes and Satisfaction Between Body Mass Index Classes at 1 Year Postoperatively."
+40,KOOS and Knee-Specific PROMs (Expectations),3,40222430,2025,Preoperative Expectations and Functional Scores for Primary Total Knee Arthroplasty Vary Based on Health Literacy.
+40,KOOS and Knee-Specific PROMs (Expectations),4,39581239,2025,Patient Satisfaction Is Nearly 90% After Total Knee Arthroplasty; We Are Better Than We Were.
+40,KOOS and Knee-Specific PROMs (Expectations),5,36126888,2023,Preoperative Pain Catastrophizing Prior to Total Knee Arthroplasty is Associated With Worse Preoperative Symptoms and More Clinical Improvement: A Prospective Comparative Study.
+41,Online Research Quality and Surgical Training Surveys,1,29066111,2018,Internet Promotion of Direct Anterior Approach Total Hip Arthroplasty by Members of the American Association of Hip and Knee Surgeons.
+41,Online Research Quality and Surgical Training Surveys,2,38364879,2024,Assessing Ability for ChatGPT to Answer Total Knee Arthroplasty-Related Questions.
+41,Online Research Quality and Surgical Training Surveys,3,31818501,2020,"Patient-Recorded Physician Ratings: What Can We Learn From 11,527 Online Reviews of Orthopedic Surgeons?"
+41,Online Research Quality and Surgical Training Surveys,4,31678019,2020,"Analysis of Readability, Quality, and Content of Online Information Available for ""Stem Cell"" Injections for Knee Osteoarthritis."
+41,Online Research Quality and Surgical Training Surveys,5,40803560,2026,Detecting Artificial Intelligence-Generated Text in Personal Statements of Adult Reconstruction Fellowship Applicants.
+42,Lower Extremity Deformity and Ligament Reconstruction,1,34053751,2021,Relevance of the Tibial Slope on Functional Outcomes in ACL-Deficient and ACL Intact Fixed-Bearing Medial Unicompartmental Knee Arthroplasty.
+42,Lower Extremity Deformity and Ligament Reconstruction,2,37757984,2024,"Fixed-Bearing Unicompartmental Knee Arthroplasty in Tibia Vara Knees Results in Joint Surface Malalignment and Varus Joint Line Obliquity, but Does Not Affect Functional Outcomes at Greater Than 5 Years Follow-Up."
+42,Lower Extremity Deformity and Ligament Reconstruction,3,39581237,2025,Preoperative Patello-femoral Alignment Affects Anterior Knee Pain After Primary Total Knee Arthroplasty Without Patellar Resurfacing.
+42,Lower Extremity Deformity and Ligament Reconstruction,4,33810918,2021,Medial Unicompartmental Knee Arthroplasty After Failed Open-Wedge High Tibial Osteotomy.
+42,Lower Extremity Deformity and Ligament Reconstruction,5,31320188,2019,The Combination of Inlay Patellofemoral Arthroplasty and Medial Unicompartmental Knee Arthroplasty Versus Total Knee Arthroplasty for Mediopatellofemoral Osteoarthritis: A Comparison of Mid-Term Outcomes.
+43,National Joint Replacement Registry Studies,1,34238620,2021,"Ceramic Bearings Are Associated With a Significantly Reduced Revision Rate in Primary Hip Arthroplasty: An Analysis From the National Joint Registry for England, Wales, Northern Ireland, and the Isle of Man."
+43,National Joint Replacement Registry Studies,2,31787355,2020,"The Effect of Size for a Hydroxyapatite-Coated Cementless Implant on Component Revision in Total Hip Arthroplasty: An Analysis of 41,265 Stems."
+43,National Joint Replacement Registry Studies,3,40414367,2025,Comparison of Rates of Aseptic Loosening in High versus Standard Offset Cementless Femoral Stems: An Australian National Joint Registry Cohort Analysis.
+43,National Joint Replacement Registry Studies,4,34521567,2021,"Stainless Steel Femoral Heads Reduce Rate of Revision When Compared to Ion-Implanted Chromium-Cobalt Heads With a Single Cemented Femoral Design: An Analysis of 40,468 Total Hip Replacements From the Australian Orthopedic Association National Joint Replacement Registry."
+43,National Joint Replacement Registry Studies,5,32773270,2021,"The Mid- to Long-Term Outcomes of the Lateral Domed Oxford Unicompartmental Knee Replacement: An Analysis From the National Joint Registry for England, Wales, Northern Ireland, and the Isle of Man."
+44,30-Day Readmission and Postoperative Complications,1,40122219,2025,Characterizing the Cost Trends of Readmissions After Aseptic Revision Total Knee Arthroplasty.
+44,30-Day Readmission and Postoperative Complications,2,41177189,2025,Characterizing the Cost Trends of Readmissions After Aseptic Revision Total Hip Arthroplasty.
+44,30-Day Readmission and Postoperative Complications,3,38797450,2024,Revision Total Knee Arthroplasty in an Outpatient Setting: A Growing Alternative.
+44,30-Day Readmission and Postoperative Complications,4,29066112,2018,Costs and Risk Factors for Hospital Readmission After Periprosthetic Knee Fractures in the United States.
+44,30-Day Readmission and Postoperative Complications,5,26895819,2016,Medicare's Hospital-Acquired Conditions Policy: A Problem of Nonpayment After Total Joint Arthroplasty.
+45,Direct Anterior Approach Total Hip Arthroplasty,1,38301980,2024,Does Approach Matter in Robotic-Assisted Total Hip Arthroplasty? A Comparison of Early Reoperations Between Direct Anterior and Postero-Lateral Approach.
+45,Direct Anterior Approach Total Hip Arthroplasty,2,41935762,2026,Primary Total Hip Arthroplasty in Patients Who Have Morbid Obesity: A Propensity-Weighted Analysis of Dual Mobility and Standard Fixed-Bearing Implants.
+45,Direct Anterior Approach Total Hip Arthroplasty,3,38604277,2024,A Comparison Between Polyethylene Exchange and Full Revision for Arthrofibrosis Following Total Knee Arthroplasty.
+45,Direct Anterior Approach Total Hip Arthroplasty,4,36889523,2023,Accelerometer-Based Navigation in Primary Total Knee Arthroplasty Leads to Improved Alignment but No Change in Patient-Reported Outcomes.
+45,Direct Anterior Approach Total Hip Arthroplasty,5,32247673,2020,The Effect of Polyethylene Liner Thickness on Patient Outcomes and Failure After Primary Total Knee Arthroplasty.
+46,Radiographic Implant Survival and Loosening Assessment,1,28803814,2017,Revision Total Hip Arthroplasty With a Monoblock Splined Tapered Grit-Blasted Titanium Stem.
+46,Radiographic Implant Survival and Loosening Assessment,2,40288502,2025,Minimum Five-Year Outcomes of Cemented Monobloc Dual-Mobility Cups in Revision Total Hip Arthroplasty: High Survival Rates and Enhanced Functional Results With Reinforcement Constructs.
+46,Radiographic Implant Survival and Loosening Assessment,3,37003457,2023,Minimum 5-Year Clinical Outcomes and Survivorship for a Single Revision Total Knee Arthroplasty System Using Hybrid Fixation and Press-Fit Stems.
+46,Radiographic Implant Survival and Loosening Assessment,4,31870582,2020,Radiographic and Clinical Outcomes of Modular Tapered Fluted Stems for Femoral Revision for Paprosky III and IV Femoral Defects or Vancouver B2 and B3 Femoral Fractures.
+46,Radiographic Implant Survival and Loosening Assessment,5,32713726,2020,Long-Term Results of Revision Total Hip Arthroplasty Using a Modern Extensively Porous-Coated Femoral Stem.
+47,Ambulatory Surgery Center and Outpatient TJA,1,39586405,2025,Outpatient Total Joint Arthroplasty at an Ambulatory Surgical Center: An Analysis of Failure to Launch.
+47,Ambulatory Surgery Center and Outpatient TJA,2,32192837,2020,Is Outpatient Arthroplasty Safe? A Systematic Review.
+47,Ambulatory Surgery Center and Outpatient TJA,3,38830428,2024,Short-Term (90 Days) Clinical Outcomes Following the Day of Surgery Conversion of Inpatient to Same-Day Hip and Knee Arthroplasty.
+47,Ambulatory Surgery Center and Outpatient TJA,4,29224990,2018,The Shift to Same-Day Outpatient Joint Arthroplasty: A Systematic Review.
+47,Ambulatory Surgery Center and Outpatient TJA,5,27838015,2017,A Perioperative Patient Support System Was Unable to Mitigate the Risk of Hospital Readmission for Total Hip Arthroplasty Patients With High American Society of Anesthesiologists Grades.
+48,Risk Assessment and Discharge Disposition Models,1,36481285,2023,A Validated Pre-operative Risk Prediction Tool for Extended Inpatient Length of Stay Following Primary Total Hip or Knee Arthroplasty.
+48,Risk Assessment and Discharge Disposition Models,2,34871748,2022,Relative Contribution of Outpatient Arthroplasty Risk Assessment Score Medical Comorbidities to Same-Day Discharge After Primary Total Joint Arthroplasty.
+48,Risk Assessment and Discharge Disposition Models,3,30579711,2019,The Risk Assessment and Prediction Tool Is Less Accurate in Extended Length of Stay Patients Following Total Joint Arthroplasty.
+48,Risk Assessment and Discharge Disposition Models,4,28390881,2017,"Safe Selection of Outpatient Joint Arthroplasty Patients With Medical Risk Stratification: the ""Outpatient Arthroplasty Risk Assessment Score""."
+48,Risk Assessment and Discharge Disposition Models,5,38640964,2024,Should Chronological Age be a Consideration in Patients Undergoing Elective Primary Total Knee Arthroplasty?
+49,Polyethylene Wear and Osteolysis,1,29079168,2018,Wear Rates With Large Metal and Ceramic Heads on a Second Generation Highly Cross-Linked Polyethylene at Mean 6-Year Follow-Up.
+49,Polyethylene Wear and Osteolysis,2,29588121,2018,Large Metal Heads and Highly Cross-Linked Polyethylene Provide Low Wear and Complications at 5-13 Years.
+49,Polyethylene Wear and Osteolysis,3,31983565,2020,"Comparison of Surgical Outcomes Between Standard and Elevated-Rim Highly Cross-Linked Polyethylene Acetabular Liners in Primary Total Hip Arthroplasty With Minimum 15-Year Follow-Up: Single-Center, Retrospective Cohort Study."
+49,Polyethylene Wear and Osteolysis,4,35131388,2022,Unexpected Wear of a Uniquely Designed Moderately Cross-Linked Polyethylene in Total Hip Arthroplasty.
+49,Polyethylene Wear and Osteolysis,5,27436500,2016,Thirteen-Year Evaluation of Highly Cross-Linked Polyethylene Articulating With Either 28-mm or 36-mm Femoral Heads Using Radiostereometric Analysis and Computerized Tomography.
+50,Minimally Invasive Surgical Approaches in TJA,1,27687805,2017,A Prospective Randomized Clinical Trial in Total Hip Arthroplasty-Comparing Early Results Between the Direct Anterior Approach and the Posterior Approach.
+50,Minimally Invasive Surgical Approaches in TJA,2,31003782,2019,Total Hip Arthroplasty Through the Direct Anterior Approach Using a Bikini Incision Can Be Safely Performed in Obese Patients.
+50,Minimally Invasive Surgical Approaches in TJA,3,17920474,2007,Progressive quadriceps incision during minimally invasive surgery for total knee arthroplasty: the effect on early postoperative ambulation.
+50,Minimally Invasive Surgical Approaches in TJA,4,21435823,2011,Anterolateral minimally invasive total hip arthroplasty: a prospective randomized controlled study with a follow-up of 1 year.
+50,Minimally Invasive Surgical Approaches in TJA,5,18165023,2008,Mini-subvastus approach for total knee arthroplasty.
+51,Soft Tissue Balancing and Ligament Release in TKA,1,39142614,2025,Postero-Central Slice Osteotomy of the Proximal Tibia: A Novel Technique for Correcting Resistant Tight Extension Gaps in Posterior-Stabilized Total Knee Arthroplasty for Varus Osteoarthritis.
+51,Soft Tissue Balancing and Ligament Release in TKA,2,30473229,2019,Anterior Tibial Post Impingement During Stair Climbing: A Kinematic Analysis and Clinical Outcomes.
+51,Soft Tissue Balancing and Ligament Release in TKA,3,27460296,2016,Differential Effect of Total Knee Arthroplasty on Valgus and Varus Knee Biomechanics During Gait.
+51,Soft Tissue Balancing and Ligament Release in TKA,4,28578844,2017,Does the Dual-Mobility Hip Prosthesis Produce Better Joint Kinematics During Extreme Hip Flexion Task?
+51,Soft Tissue Balancing and Ligament Release in TKA,5,39863062,2025,Kinematic Alignment Compared With Mechanical Alignment Techniques Results in Greater Peak Three-Dimensional Knee Joint Moments During Stair Negotiation.
+52,Operating Room Air Contamination and Infection Prevention,1,35219817,2022,Do Ultraviolet Air Disinfection Units Reduce Contamination by Particulates in Total Knee Replacement Procedures?
+52,Operating Room Air Contamination and Infection Prevention,2,37454949,2024,Gloves Contamination During Revision Surgery for Periprosthetic Joint Infection.
+52,Operating Room Air Contamination and Infection Prevention,3,38823518,2024,Operating Room Air May Harbor Pathogens: The Role of an Ultraviolet Air Filtration Unit.
+52,Operating Room Air Contamination and Infection Prevention,4,31537375,2020,Dilute Povidone-Iodine Solution Prevents Intraoperative Contamination of Sterile Water Basins During Total Joint Arthroplasty.
+52,Operating Room Air Contamination and Infection Prevention,5,32482473,2020,The Influence of Iodine-Impregnated Incision Drapes on the Bacterial Contamination of Scalpel Blades in Joint Arthroplasty.
+53,Spinopelvic Parameters and Cup Positioning in THA,1,41109362,2026,Prospective Evaluation of Hip-Spine Dynamics in Patients Who Have a Primary Total Hip Arthroplasty Dislocation: A Matched Case-Control Study.
+53,Spinopelvic Parameters and Cup Positioning in THA,2,34822930,2022,Variability in Acetabular Component Position in Patients Undergoing Direct Anterior Approach Total Hip Arthroplasty Who Have Concomitant Spine Pathology.
+53,Spinopelvic Parameters and Cup Positioning in THA,3,35598762,2023,High Prevalence of Spinopelvic Risk Factors in Patients With Post-Operative Hip Dislocations.
+53,Spinopelvic Parameters and Cup Positioning in THA,4,40349866,2025,Type IIB Spino-Pelvic Imbalance Is an Independent Risk Factor for Flexion Contracture after Total Knee Arthroplasty.
+53,Spinopelvic Parameters and Cup Positioning in THA,5,37279848,2023,Variation in Functional Pelvic Tilt in Female Patients Undergoing Total Hip Arthroplasty With Acetabular Dysplasia.
+54,Morbid Obesity and Joint Arthroplasty Complications,1,38428691,2024,The Impact of Obesity on Total Hip Arthroplasty Outcomes When Performed by High-Volume Surgeons-A Propensity Matched Analysis From a High-Volume Urban Center.
+54,Morbid Obesity and Joint Arthroplasty Complications,2,31353254,2019,Discharge Home is Associated With Decreased Early Complications Following Primary Total Joint Arthroplasty.
+54,Morbid Obesity and Joint Arthroplasty Complications,3,36572234,2023,The Association of Metabolic Syndrome on Complications and Implant Survivorship in Primary Total Knee Arthroplasty in Morbidly Obese Patients.
+54,Morbid Obesity and Joint Arthroplasty Complications,4,33840543,2021,Increasing Reoperations and Failures With Increasing BMI in Patients Undergoing 2-Stage Exchange for Infected Total Hip Arthroplasty.
+54,Morbid Obesity and Joint Arthroplasty Complications,5,29089223,2018,Postoperative Complications of Total Joint Arthroplasty in Obese Patients Stratified by BMI.
+55,Cementless Stem Subsidence and Early Fixation,1,39956491,2025,High Early Failure Rate of a Novel Cementless Unicompartmental Knee Arthroplasty.
+55,Cementless Stem Subsidence and Early Fixation,2,38782243,2024,Two-Year Results of Ceramic-on-Ceramic Hip Resurfacing in an International Multicenter Cohort.
+55,Cementless Stem Subsidence and Early Fixation,3,31178386,2019,Conversion of Hip Resurfacing With Retention of Monoblock Acetabular Shell Using Dual-Mobility Components.
+55,Cementless Stem Subsidence and Early Fixation,4,38734325,2024,Survivorship and Patient Outcomes of Conforming Bearings in Modern Primary Total Knee Arthroplasty: Mean 3.5 Year Follow-Up.
+55,Cementless Stem Subsidence and Early Fixation,5,40049564,2025,Outcomes and Survival of a Single Model of Modular Neck Primary Total Hip Arthroplasty at a Mean of Eight Years.
+56,Tibial Mechanical Axis and Varus-Valgus Alignment,1,38548234,2024,No Difference in Limb Alignment Between Kinematic and Mechanical Alignment Robotic-Assisted Total Knee Arthroplasty.
+56,Tibial Mechanical Axis and Varus-Valgus Alignment,2,38401611,2024,A Restricted Functional Balancing Technique for Total Knee Arthroplasty With a Varus Deformity: Does a Medial Soft-Tissue Release Result in a Worse Outcome?
+56,Tibial Mechanical Axis and Varus-Valgus Alignment,3,41932404,2026,Primary Total Knee Arthroplasty Using a Functional Alignment Concept With Kinematic Versus Inverse Kinematic Technique: Does it Make a Difference?
+56,Tibial Mechanical Axis and Varus-Valgus Alignment,4,40068724,2025,Automated Versus Manual Femoral Component Rotation Planning in Robotic-Assisted and Conventional Total Knee Arthroplasty: A Retrospective Comparison.
+56,Tibial Mechanical Axis and Varus-Valgus Alignment,5,36963529,2023,"Component Rotation in Well-Functioning, Gap Balanced Total Knee Arthroplasty Without Navigation."
+57,Ceramic Components and Periprosthetic Osteolysis,1,19643564,2010,Fifteen-year to twenty-year results of cementless Harris-Galante porous femoral and Harris-Galante porous I and II acetabular components.
+57,Ceramic Components and Periprosthetic Osteolysis,2,18534453,2009,"Midterm survivorship of a press-fit, plasma-sprayed, tri-spike acetabular component."
+57,Ceramic Components and Periprosthetic Osteolysis,3,36924856,2023,Minimum 25-Year Results of a Tapered Titanium Porous Plasma Spray Coated Femoral Component.
+57,Ceramic Components and Periprosthetic Osteolysis,4,18534379,2008,Total hip arthroplasty with the Secur-Fit and Secur-Fit plus femoral stem design a brief follow-up report at 5 to 10 years.
+57,Ceramic Components and Periprosthetic Osteolysis,5,34238621,2021,Long-Term Outcomes of a Titanium-Encased Ceramic Liner Total Hip Arthroplasty (15 to 21Year Results).
+58,Patient Satisfaction After Joint Arthroplasty,1,38608844,2024,Worse Patient-Reported Outcomes and Spino-Pelvic Parameters After Total Hip Arthroplasty for Rapidly Progressive Osteoarthritis of the Hip Compared to Osteoarthritis: A Propensity-Matched Cohort Study.
+58,Patient Satisfaction After Joint Arthroplasty,2,27506723,2016,A New Prediction Model for Patient Satisfaction After Total Knee Arthroplasty.
+58,Patient Satisfaction After Joint Arthroplasty,3,33288389,2021,Association Between Epidemiological Factors and Nonresponders to Total Joint Replacement Surgery in Primary Osteoarthritis Patients.
+58,Patient Satisfaction After Joint Arthroplasty,4,37863273,2024,The Effect of Waiting for a Primary Total Hip Arthroplasty on the Overall Hip Function and Quality of Life.
+58,Patient Satisfaction After Joint Arthroplasty,5,34990754,2022,Preoperative Factors and Patient-Reported Outcomes After Total Hip Arthroplasty: Multivariable Prediction Modeling.
+59,Extended Trochanteric Osteotomy and Periprosthetic Fracture,1,27687809,2017,Management of Vancouver B2 and B3 Periprosthetic Proximal Femoral Fractures by Distal Locking Femoral Stem (Cannulok) in Patients 75 Years and Older.
+59,Extended Trochanteric Osteotomy and Periprosthetic Fracture,2,19729278,2009,Management of periprosthetic femur fractures treated with distal fixation using a modular femoral stem using an anterolateral approach.
+59,Extended Trochanteric Osteotomy and Periprosthetic Fracture,3,17162172,2006,Total hip arthroplasty for acute femoral neck fractures using a cementless tapered femoral stem.
+59,Extended Trochanteric Osteotomy and Periprosthetic Fracture,4,26088398,2015,Total Hip Arthroplasty Using Non-Modular Cementless Long-Stem Distal Fixation for Salvage of Failed Internal Fixation of Intertrochanteric Fracture.
+59,Extended Trochanteric Osteotomy and Periprosthetic Fracture,5,24736292,2014,The outcome of modified extended trochanteric osteotomy in revision THA for Vancouver B2/B3 periprosthetic fractures of the femur.
+60,Bariatric Surgery Prior to Joint Arthroplasty,1,42001909,2026,Preoperative Glucagon-Like Peptide-1 Agonist Use Is Associated With Decreased Complications Compared to Bariatric Surgery Following Primary Total Hip Arthroplasty.
+60,Bariatric Surgery Prior to Joint Arthroplasty,2,38211728,2024,Increased Rate of Complications Following Total Knee Arthroplasty in Patients Who Have Marfan Syndrome.
+60,Bariatric Surgery Prior to Joint Arthroplasty,3,40780489,2026,Complications Following Total Hip Arthroplasty in Patients Who Have Acetabular Fracture Versus Primary Osteoarthritis: A Retrospective Cohort Analysis.
+60,Bariatric Surgery Prior to Joint Arthroplasty,4,41177195,2025,Are Patients Who Have Sarcoidosis at Increased Risk of Adverse Postoperative Outcomes Following Total Knee Arthroplasty?
+60,Bariatric Surgery Prior to Joint Arthroplasty,5,34176692,2021,Total Hip Arthroplasty in Patients With Cerebral Palsy: A Matched Comparison of 90-Day Adverse Events and 5-Year Implant Survival.
+61,Clinical Trial Quality and Fragility Index in Arthroplasty,1,39284392,2025,Fragility Index Analysis of the 2018 Clinical Practice Guidelines on Tranexamic Acid Use in Total Joint Arthroplasty.
+61,Clinical Trial Quality and Fragility Index in Arthroplasty,2,39321972,2025,The Statistical Fragility of Patellar Resurfacing in Total Knee Arthroplasty: A Systematic Review of Randomized Controlled Trials.
+61,Clinical Trial Quality and Fragility Index in Arthroplasty,3,38325531,2024,International Delphi Study on Wound Closure and Incision Management in Joint Arthroplasty Part 2: Total Hip Arthroplasty.
+61,Clinical Trial Quality and Fragility Index in Arthroplasty,4,38309638,2024,Interpreting the Current Literature on Outcomes of Robotic-Assisted Versus Conventional Total Knee Arthroplasty Using Fragility Analysis: A Systematic Review and Cross-Sectional Study of Randomized Controlled Trials.
+61,Clinical Trial Quality and Fragility Index in Arthroplasty,5,38331358,2024,Statistical Outcomes Guiding Periprosthetic Joint Infection Prevention and Revision Are Fragile: A Systematic Review of Randomized Controlled Trials.
+62,Same-Day Discharge Protocols in Joint Arthroplasty,1,27506724,2017,Socioeconomic Risk Adjustment Models for Reimbursement Are Necessary in Primary Total Joint Arthroplasty.
+62,Same-Day Discharge Protocols in Joint Arthroplasty,2,40383167,2025,Evaluating the Safety and Efficacy of Same Calendar Day Discharges for Total Joint Arthroplasty in a Veterans Affairs Hospital.
+62,Same-Day Discharge Protocols in Joint Arthroplasty,3,29199061,2018,Should Medicare Remove Total Knee Arthroplasty From Its Inpatient Only List? A Total Knee Arthroplasty Is Not a Partial Knee Arthroplasty.
+62,Same-Day Discharge Protocols in Joint Arthroplasty,4,30904366,2019,Total Hip Arthroplasty and the Medicare Inpatient-Only List: An Analysis of Complications in Medicare-Aged Patients Undergoing Outpatient Surgery.
+62,Same-Day Discharge Protocols in Joint Arthroplasty,5,35181447,2022,Evaluation of Emergency Department Visits Following Total Joint Arthroplasty: Same-Day Discharge vs Non-Same-Day Discharge.
+63,Knee Flexion and Range of Motion After TKA,1,29103778,2018,Reduced Bearing Excursion After Mobile-Bearing Unicompartmental Knee Arthroplasty is Associated With Poor Functional Outcomes.
+63,Knee Flexion and Range of Motion After TKA,2,40473049,2025,Failure to Restore Normal Trochlear Orientation Does Not Affect Postoperative Patella-Related Outcomes in Robotic-Assisted Functional Alignment Total Knee Arthroplasty.
+63,Knee Flexion and Range of Motion After TKA,3,37271229,2023,Lateral Retinacular Release During Medial Unicompartmental Knee Arthroplasty in the Presence of Patello-Femoral Joint Arthritis Relieves Patello-Femoral Joint Pressure and Improves Associated Symptoms.
+63,Knee Flexion and Range of Motion After TKA,4,33229070,2021,Influence of Intraoperative Medial Collateral Ligament Bony Avulsion Injury on the Outcome of Primary Total Knee Arthroplasty.
+63,Knee Flexion and Range of Motion After TKA,5,36309143,2023,Does Generalized Joint Laxity Affect Postoperative Alignment and Clinical Outcomes Following Medial Opening-Wedge High Tibial Osteotomy?
+64,Relative Value Units and Surgical Work in TJA,1,37149270,2023,Time Required for Planned and Unplanned Episodes of Care in Aseptic Hip and Knee Revision Arthroplasty.
+64,Relative Value Units and Surgical Work in TJA,2,31301913,2019,Quantifying the Perioperative Work Associated With Total Hip and Knee Arthroplasty: The Burden Has Increased With Contemporary Care Pathways.
+64,Relative Value Units and Surgical Work in TJA,3,31133427,2019,Perioperative Telephone Encounters Should Be Included in the Relative Value Scale Update Committee Review of Time Spent on Total Hip and Knee Arthroplasty.
+64,Relative Value Units and Surgical Work in TJA,4,35026363,2022,Time Required for Planned and Unplanned Episodes of Care in Septic Two-Stage Revision Hip and Knee Arthroplasty.
+64,Relative Value Units and Surgical Work in TJA,5,33618957,2021,Electronic Medical Record Audit Time Logs as a Measure of Preoperative Work Before Total Joint Arthroplasty.
+65,Medicare Reimbursement and Bundled Payments (CMS),1,31591011,2020,The Clinical and Financial Consequences of the Centers for Medicare and Medicaid Services' Two-Midnight Rule in Total Joint Arthroplasty.
+65,Medicare Reimbursement and Bundled Payments (CMS),2,40120654,2025,The CCJR® Gerard A. Engh Excellence in Knee Research Award: Patient-Reported Outcomes Collection and Mandatory Medicare Inpatient Total Knee Arthroplasty Patient-Reported Outcome Performance Measures: How to Optimize the Process.
+65,Medicare Reimbursement and Bundled Payments (CMS),3,36781061,2023,"Lessons Learned From the Comprehensive Care for Joint Replacement Model at an Academic Tertiary Center: The Good, the Bad, and the Ugly."
+65,Medicare Reimbursement and Bundled Payments (CMS),4,32081502,2020,Economic Impact of Outpatient Medicare Total Knee Arthroplasty at a Tertiary Care Academic Medical Center.
+65,Medicare Reimbursement and Bundled Payments (CMS),5,41161511,2026,The Race to the Bottom: A High-Volume Hospital Experience With Comprehensive Care for Joint Replacement.
+66,Blood Loss and Transfusion Management,1,27659394,2017,Efficacy of Hybrid Plasma Scalpel in Reducing Blood Loss and Transfusions in Direct Anterior Total Hip Arthroplasty.
+66,Blood Loss and Transfusion Management,2,27286909,2016,Comparison of ε-Aminocaproic Acid and Tranexamic Acid in Reducing Postoperative Transfusions in Total Hip Arthroplasty.
+66,Blood Loss and Transfusion Management,3,27113948,2016,The James A. Rand Young Investigator's Award: A Randomized Controlled Trial of Oral and Intravenous Tranexamic Acid in Total Knee Arthroplasty: The Same Efficacy at Lower Cost?
+66,Blood Loss and Transfusion Management,4,38430972,2024,The AAHKS Clinical Research Award: Extended Postoperative Oral Tranexamic Acid in Total Knee Arthroplasty: A Randomized Controlled Pilot Study.
+66,Blood Loss and Transfusion Management,5,26387037,2016,What Is the Benefit of Tranexamic Acid vs Reinfusion Drains in Total Joint Arthroplasty?
+67,Cardiac Complications and Medical Comorbidities After TJA,1,28034481,2017,Complications Following Outpatient Total Joint Arthroplasty: An Analysis of a National Database.
+67,Cardiac Complications and Medical Comorbidities After TJA,2,30853155,2019,"Inflammatory Arthritis Is a Risk Factor for Multiple Complications After Total Hip Arthroplasty: A Population-Based Comparative Study of 68,348 Patients."
+67,Cardiac Complications and Medical Comorbidities After TJA,3,35143922,2022,"Increased Morbidity With Diagnosis and Treatment of Pulmonary Embolism After Total Joint Arthroplasty: A Matched Control Analysis of 30,000 Patients."
+67,Cardiac Complications and Medical Comorbidities After TJA,4,27480828,2017,Myocardial Infarction Risk in Arthroplasty vs Arthroscopy: How Much Does Procedure Type Matter?
+67,Cardiac Complications and Medical Comorbidities After TJA,5,33637381,2021,Crohn's Disease is Associated with Longer In-Hospital Lengths of Stay and Higher Rates of Complications and Costs after Primary Total Hip Arthroplasty.
+68,Arthroplasty Volume Trends and Future Projections,1,39828012,2025,Trends and Epidemiology in Revision Total Hip Arthroplasty: A Large Database Study.
+68,Arthroplasty Volume Trends and Future Projections,2,32151524,2020,Projections and Epidemiology of Revision Hip and Knee Arthroplasty in the United States to 2030.
+68,Arthroplasty Volume Trends and Future Projections,3,28336249,2017,Current Epidemiology of Revision Total Hip Arthroplasty in the United States: National Inpatient Sample 2009 to 2013.
+68,Arthroplasty Volume Trends and Future Projections,4,37001624,2023,Trends in Surgical Management of Osteonecrosis of the Femoral Head: A 2010 to 2020 Nationwide Study.
+68,Arthroplasty Volume Trends and Future Projections,5,37717833,2024,The Current Epidemiology of Revision Total Knee Arthroplasty in the United States From 2016 to 2022.
+69,Neurovascular Anatomy and Complication Avoidance,1,41991411,2026,Anatomic Mapping of the Inferior Branch of the Superior Gluteal Nerve: Implications for Revision Total Hip Arthroplasty.
+69,Neurovascular Anatomy and Complication Avoidance,2,38043744,2024,The Anatomical Course of the Femoral Nerve with Regard to the Direct Anterior Approach for Total Hip Arthroplasty.
+69,Neurovascular Anatomy and Complication Avoidance,3,27515242,2017,Distal Extension of the Direct Anterior Approach to the Hip: A Cadaveric Feasibility Study.
+69,Neurovascular Anatomy and Complication Avoidance,4,29656968,2018,Anatomical Features of the Descending Genicular Artery to Facilitate Surgical Exposure for the Subvastus Approach-A Cadaveric Study.
+69,Neurovascular Anatomy and Complication Avoidance,5,19361947,2010,Proximity of the femoral neurovascular bundle during hip resurfacing.
+70,Femoral Stem Survival and Aseptic Loosening,1,41985698,2026,Implant Survival and Clinical Results of a Cementless Femoral Stem: Minimum 30-Year Follow-Up of 348 Primary Total Hip Arthroplasties.
+70,Femoral Stem Survival and Aseptic Loosening,2,34625308,2022,Mid-Term Results After 517 Primary Total Hip Arthroplasties With a Shortened and Shoulderless Double-Taper Press-Fit Stem: High Rates of Aseptic Loosening.
+70,Femoral Stem Survival and Aseptic Loosening,3,37852443,2024,Mean 23-Year Outcomes of Total Hip Arthroplasty Using a Modular Femoral Stem With Metaphyseal Fixation Sleeve.
+70,Femoral Stem Survival and Aseptic Loosening,4,30930158,2019,A Minimum of 15-Year Results of Cementless Total Hip Arthroplasty Using a 28-mm Metal-On-Metal Articulation.
+70,Femoral Stem Survival and Aseptic Loosening,5,30982763,2019,High Failure at a Minimum 5-Year Follow-Up in Primary Total Hip Arthroplasty Using a Modular Femoral Trunnion.
+71,Vancomycin Prophylaxis and Acute Kidney Injury Risk,1,33468344,2021,Intraosseous Regional Administration of Vancomycin in Primary Total Knee Arthroplasty Does Not Increase the Risk of Vancomycin-Associated Complications.
+71,Vancomycin Prophylaxis and Acute Kidney Injury Risk,2,26796776,2016,Rivaroxaban Use for Thrombosis Prophylaxis Is Associated With Early Periprosthetic Joint Infection.
+71,Vancomycin Prophylaxis and Acute Kidney Injury Risk,3,27118182,2016,Aspirin Can Be Used as Prophylaxis for Prevention of Venous Thromboembolism After Revision Hip and Knee Arthroplasty.
+71,Vancomycin Prophylaxis and Acute Kidney Injury Risk,4,39447933,2025,The Addition of a Nonsteroidal Anti-inflammatory Drug in Local Infiltration Analgesia During Total Knee Arthroplasty Increases the Risk of Acute Kidney Injury in Patients Who Have Renal Impairment: A Propensity-Matched Retrospective Cohort Study.
+71,Vancomycin Prophylaxis and Acute Kidney Injury Risk,5,33485696,2021,Low-Dose Aspirin Administered for Venous Thromboembolism Prophylaxis Reduces the Incidence of Heterotopic Ossification in Total Joint Arthroplasty.
+72,Deep Learning and Computer Vision in Arthroplasty,1,33160805,2021,Artificial Intelligence to Identify Arthroplasty Implants From Radiographs of the Knee.
+72,Deep Learning and Computer Vision in Arthroplasty,2,38336303,2024,Novel Technique for the Identification of Hip Implants Using Artificial Intelligence.
+72,Deep Learning and Computer Vision in Arthroplasty,3,33051119,2021,Use of Natural Language Processing Algorithms to Identify Common Data Elements in Operative Notes for Knee Arthroplasty.
+72,Deep Learning and Computer Vision in Arthroplasty,4,35271974,2023,Artificial Intelligence for Automated Implant Identification in Total Hip Arthroplasty: A Multicenter External Validation Study Exceeding Two Million Plain Radiographs.
+72,Deep Learning and Computer Vision in Arthroplasty,5,33281020,2021,Artificial Intelligence to Identify Arthroplasty Implants From Radiographs of the Hip.
+73,Authorship Trends and Publication Patterns in Arthroplasty,1,40069007,2025,Knee Society Members Are High Impact Researchers in the Field of Knee Arthroplasty: A Quantitative Analysis.
+73,Authorship Trends and Publication Patterns in Arthroplasty,2,29258760,2018,Adult Reconstruction Studies Presented at AAOS and AAHKS 2011-2015 Annual Meetings. Is There a Difference in Future Publication?
+73,Authorship Trends and Publication Patterns in Arthroplasty,3,33812708,2021,Industry Payments and Their Association With Academic Influence in Total Joint Arthroplasty.
+73,Authorship Trends and Publication Patterns in Arthroplasty,4,37286049,2024,"Open Access Publication in Total Knee Arthroplasty Is Associated With Increased Social Media Attention, but Is Not Associated With Increased Citations."
+73,Authorship Trends and Publication Patterns in Arthroplasty,5,40185342,2025,The Role of Women in the Top 100 Most Influential Arthroplasty Publications: A Bibliometric Analysis.
+74,Postoperative Rehabilitation and Physical Therapy,1,36252744,2023,"A Home-Based, Remote-Clinician-Controlled, Physical Therapy Device Leads to Superior Outcomes When Compared to Standard Physical Therapy for Rehabilitation After Total Knee Arthroplasty."
+74,Postoperative Rehabilitation and Physical Therapy,2,34462184,2021,A Smartwatch Paired With A Mobile Application Provides Postoperative Self-Directed Rehabilitation Without Compromising Total Knee Arthroplasty Outcomes: A Randomized Controlled Trial.
+74,Postoperative Rehabilitation and Physical Therapy,3,38768768,2024,"A Remote Physical Therapy Program Demonstrates Similar Outcomes Compared to In-Person, Supervised Physical Therapy After Same-Day Discharge Total Knee Arthroplasty: A Randomized Clinical Trial."
+74,Postoperative Rehabilitation and Physical Therapy,4,30477966,2019,"Web-Based, Self-Directed Physical Therapy After Total Hip Arthroplasty Is Safe and Effective for Most, but Not All, Patients."
+74,Postoperative Rehabilitation and Physical Therapy,5,30591206,2019,"Web-Based, Self-Directed Physical Therapy After Total Knee Arthroplasty Is Safe and Effective for Most, but Not All, Patients."
+75,Lower Extremity Alignment and Deformity Correction,1,32646678,2020,Aggravation of Ankle Varus Incongruency Following Total Knee Replacement Correcting ≥10° of Genu Varum Deformity: A Radiographic Assessment.
+75,Lower Extremity Alignment and Deformity Correction,2,35093550,2022,Effect of Total Knee Arthroplasty on Coronal Alignment of the Ankle Joint.
+75,Lower Extremity Alignment and Deformity Correction,3,26787012,2016,Comparison of Postoperative Alignment Using Fixed vs Individual Valgus Correction Angle in Primary Total Knee Arthroplasty With Lateral Bowing Femur.
+75,Lower Extremity Alignment and Deformity Correction,4,41999793,2026,"Pre- and Postoperative Alignment of the Knee Impacts Ankle Alignment: Analysis of 4,698 Total Knee Arthroplasties."
+75,Lower Extremity Alignment and Deformity Correction,5,27667532,2017,Intraoperative Fluoroscopic Assessment of Limb Alignment is a Reliable Predictor for Postoperative Limb Alignment in Biplanar Medial Opening-Wedge High Tibial Osteotomy.
+76,Blood Loss and Transfusion Management (Hgb),1,35533821,2022,Blood Transfusion can be Avoided in Single-Anesthetic Bilateral Total Knee Arthroplasty.
+76,Blood Loss and Transfusion Management (Hgb),2,33190997,2021,Simultaneous Bilateral Primary Total Knee Arthroplasty With TXA and Restrictive Transfusion Protocols: Still a 1 in 5 Risk of Allogeneic Transfusion.
+76,Blood Loss and Transfusion Management (Hgb),3,32451280,2020,"In the Era of Tranexamic Acid, are Type and Screens for Primary Total Joint Arthroplasty Obsolete?"
+76,Blood Loss and Transfusion Management (Hgb),4,39341580,2025,Bloodless Total Hip Arthroplasty in Jehovah's Witness Patients: Contemporary Strategies and Outcomes.
+76,Blood Loss and Transfusion Management (Hgb),5,30100135,2018,Patients With Infected Total Hip Arthroplasty Undergoing 2-Stage Exchange Arthroplasty Experience Massive Blood Loss.
+77,Bilateral Total Knee Arthroplasty and Simultaneous Staging,1,41270985,2025,Should Total Hip Arthroplasty Surgeons Be Concerned that a Delay Between the Date of Surgical Booking and Surgery Influences Patient Body Mass Index and Short-Term Outcomes?
+77,Bilateral Total Knee Arthroplasty and Simultaneous Staging,2,31272825,2019,Same-Day Surgery Does Not Increase the Manipulation Under Anesthesia and Reoperation Rates for Stiffness Following Bilateral Total Knee Arthroplasty.
+77,Bilateral Total Knee Arthroplasty and Simultaneous Staging,3,33039194,2021,Rates and Causes of 90-day Complications and Readmissions Following Outpatient Hip and Knee Arthroplasty: A Retrospective Analysis of 525 Patients in a Single Institution.
+77,Bilateral Total Knee Arthroplasty and Simultaneous Staging,4,28629904,2017,Perioperative Morbidity of Same-Day and Staged Bilateral Total Hip Arthroplasty.
+77,Bilateral Total Knee Arthroplasty and Simultaneous Staging,5,38866346,2024,Complication Rates Are Not Higher After Outpatient Versus Inpatient Fast-Track Total Knee Arthroplasty: A Propensity-Matched Prospective Comparative Study.
+78,Preoperative Opioid Use and Outcomes,1,40543828,2026,Opioid Consumption Patterns Before and After Elective Joint Surgery.
+78,Preoperative Opioid Use and Outcomes,2,40946937,2026,In-Hospital Exposure and Opioids Prescribed after Total Knee Arthroplasty.
+78,Preoperative Opioid Use and Outcomes,3,28413136,2017,Opioid Use After Total Knee Arthroplasty: Trends and Risk Factors for Prolonged Use.
+78,Preoperative Opioid Use and Outcomes,4,27161903,2016,Preoperative and Postoperative Opiate Use by the Arthroplasty Patient.
+78,Preoperative Opioid Use and Outcomes,5,31255407,2019,Chronic Prescription Opioid Use Before and After Total Hip and Knee Arthroplasty in Patients Younger Than 65 Years.
+79,KOOS Outcomes After Simultaneous Bilateral TKA,1,31451392,2019,"Better Implant Positioning and Clinical Outcomes With a Morphometric Unicompartmental Knee Arthroplasty. Results of a Retrospective, Matched-Controlled Study."
+79,KOOS Outcomes After Simultaneous Bilateral TKA,2,35533822,2022,Impact of Component Alignment and Soft Tissue Release on 2-Year Outcomes in Total Knee Arthroplasty.
+79,KOOS Outcomes After Simultaneous Bilateral TKA,3,40023458,2025,The John N. Insall Award: Functional Versus Mechanical Alignment in Total Knee Arthroplasty: A Randomized Controlled Trial.
+79,KOOS Outcomes After Simultaneous Bilateral TKA,4,27916473,2017,Aseptic Revision Knee Arthroplasty With Total Stabilizer Prostheses Achieves Similar Functional Outcomes to Primary Total Knee Arthroplasty at 2 Years: A Longitudinal Cohort Study.
+79,KOOS Outcomes After Simultaneous Bilateral TKA,5,36996948,2023,Decreased Femoral Trochlear Length Associated With Increased Anterior Knee Pain Following Total Knee Arthroplasty: A New Anatomical Perspective.
+80,"Opioid Use, Prescription Patterns, and Stewardship (Efficacy and Safety)",1,36162925,2022,The Efficacy and Safety of Periarticular Injection in Total Joint Arthroplasty: A Direct Meta-Analysis.
+80,"Opioid Use, Prescription Patterns, and Stewardship (Efficacy and Safety)",2,32690428,2020,The Efficacy and Safety of Nonsteroidal Anti-Inflammatory Drugs in Total Joint Arthroplasty: Systematic Review and Direct Meta-Analysis.
+80,"Opioid Use, Prescription Patterns, and Stewardship (Efficacy and Safety)",3,36162922,2022,The Efficacy and Safety of Corticosteroids in Total Joint Arthroplasty: A Direct Meta-Analysis.
+80,"Opioid Use, Prescription Patterns, and Stewardship (Efficacy and Safety)",4,30007789,2018,The Efficacy of Tranexamic Acid in Total Hip Arthroplasty: A Network Meta-analysis.
+80,"Opioid Use, Prescription Patterns, and Stewardship (Efficacy and Safety)",5,32563592,2020,The Efficacy and Safety of Acetaminophen in Total Joint Arthroplasty: Systematic Review and Direct Meta-Analysis.
+81,Knee Society Score and Clinical Outcome Reporting,1,19679440,2010,"Results of unicompartmental knee arthroplasty with cemented, fixed-bearing prosthesis using minimally invasive surgery."
+81,Knee Society Score and Clinical Outcome Reporting,2,21507608,2011,Revision of the unstable total knee arthroplasty: outcome predictors.
+81,Knee Society Score and Clinical Outcome Reporting,3,28372918,2017,"All-Polyethylene Tibial Component Use for Elderly, Low-Demand Total Knee Arthroplasty Patients."
+81,Knee Society Score and Clinical Outcome Reporting,4,17027544,2006,Midterm results of primary total knee arthroplasty using a dished polyethylene insert with a recessed or resected posterior cruciate ligament.
+81,Knee Society Score and Clinical Outcome Reporting,5,21550763,2011,Initial experience of the Journey-Deuce bicompartmental knee prosthesis: a review of 36 cases.
+82,Bibliometric Analysis of Joint Arthroplasty Literature,1,36257508,2023,Lack of Demographic Information in Total Hip Arthroplasty/Total Knee Arthroplasty Randomized Controlled Trial Publications.
+82,Bibliometric Analysis of Joint Arthroplasty Literature,2,28993088,2018,Hip and Knee Arthroplasty Orthopedic Literature in Medical Journals-Is It Negatively Biased?
+82,Bibliometric Analysis of Joint Arthroplasty Literature,3,38848787,2024,A Systematic Review of Retracted Publications in Clinical Orthopaedic Research.
+82,Bibliometric Analysis of Joint Arthroplasty Literature,4,34130871,2021,Clinical and Administrative Databases Used in Lower Extremity Arthroplasty Research.
+82,Bibliometric Analysis of Joint Arthroplasty Literature,5,36521731,2023,High Prevalence of Causal Language and Inferences in Observational Hip and Knee Arthroplasty Database Studies: A Review of Papers Published Across Four Orthopaedic Journals.

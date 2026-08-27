@@ -1,0 +1,84 @@
+topic_id,rule_generated_label,dual_review_outcome,final_label
+0,Tranexamic Acid and Perioperative Blood Management,Confirmed,Tranexamic Acid and Perioperative Blood Management
+1,Acetabular Cup Orientation and Component Positioning,Confirmed,Acetabular Cup Orientation and Component Positioning
+2,Primary Total Hip Arthroplasty Technique and Outcomes,Confirmed,Primary Total Hip Arthroplasty Technique and Outcomes
+3,Periprosthetic Joint Infection Diagnosis and Treatment,Confirmed,Periprosthetic Joint Infection Diagnosis and Treatment
+4,KOOS and Knee-Specific PROMs,Confirmed,KOOS and Knee-Specific PROMs
+5,Periprosthetic Joint Infection Diagnosis and Treatment (Odds),Refined (adjudicated),Periprosthetic Joint Infection Epidemiology and Risk Factors
+6,Observational Study Design and Statistical Methods,Refined (adjudicated),Observational Study Reporting and Statistical Language
+7,Systematic Reviews and Meta-Analyses,Confirmed,Systematic Reviews and Meta-Analyses
+8,"Knee Kinematics, Gap Balancing, and ROM",Confirmed,"Knee Kinematics, Gap Balancing, and ROM"
+9,Periprosthetic Joint Infection Diagnosis and Treatment (Synovial),Confirmed,Periprosthetic Joint Infection Diagnosis and Treatment (Synovial)
+10,Aseptic Loosening of Hip and Knee Implants,Confirmed,Aseptic Loosening of Hip and Knee Implants
+11,Aspirin vs Anticoagulant VTE Prophylaxis,Confirmed,Aspirin vs Anticoagulant VTE Prophylaxis
+12,Ceramic-on-Ceramic Bearings and Fracture,Confirmed,Ceramic-on-Ceramic Bearings and Fracture
+13,Case Reports of Unusual Arthroplasty Complications,Confirmed,Case Reports of Unusual Arthroplasty Complications
+14,THA Survivorship and Long-Term Aseptic Loosening,Confirmed,THA Survivorship and Long-Term Aseptic Loosening
+15,Medicare Reimbursement and Bundled Payments,Confirmed,Medicare Reimbursement and Bundled Payments
+16,Implant Retrieval and Corrosion Analysis,Confirmed,Implant Retrieval and Corrosion Analysis
+17,Metal Ion Release and Cobalt-Chromium Toxicity,Confirmed,Metal Ion Release and Cobalt-Chromium Toxicity
+18,Polyethylene Liner Performance,Confirmed,Polyethylene Liner Performance
+19,"Patellar Resurfacing, PCL Management, and Knee Design",Confirmed,"Patellar Resurfacing, PCL Management, and Knee Design"
+20,Depression and Mental Health in Arthroplasty,Confirmed,Depression and Mental Health in Arthroplasty
+21,Adverse Local Tissue Reactions and Implant Corrosion,Confirmed,Adverse Local Tissue Reactions and Implant Corrosion
+22,AAHKS Member Survey Studies,Confirmed,AAHKS Member Survey Studies
+23,Value-Based Care and Alternative Payment Models,Confirmed,Value-Based Care and Alternative Payment Models
+24,Biomechanical Testing and Implant Stability,Confirmed,Biomechanical Testing and Implant Stability
+25,Implant Survival Analysis and Competing Risk Methods,Confirmed,Implant Survival Analysis and Competing Risk Methods
+26,Femoral Head Taper Corrosion and Modular Junction Failure,Confirmed,Femoral Head Taper Corrosion and Modular Junction Failure
+27,Medicare Reimbursement and Bundled Payments (Costs),Confirmed,Medicare Reimbursement and Bundled Payments (Costs)
+28,Medicare Reimbursement and Bundled Payments (Proms),Refined (adjudicated),Medicare Reimbursement and Bundled Payments (PROMs)
+29,Machine Learning Prediction of Arthroplasty Outcomes,Confirmed,Machine Learning Prediction of Arthroplasty Outcomes
+30,Unicompartmental Knee Arthroplasty Functional Outcomes,Confirmed,Unicompartmental Knee Arthroplasty Functional Outcomes
+31,Hip-Spine Syndrome and Lumbar Fusion After THA,Confirmed,Hip-Spine Syndrome and Lumbar Fusion After THA
+32,Cost-Effectiveness of Joint Arthroplasty,Confirmed,Cost-Effectiveness of Joint Arthroplasty
+33,Osteolysis and Implant Loosening,Confirmed,Osteolysis and Implant Loosening
+34,"Opioid Use, Prescription Patterns, and Stewardship",Confirmed,"Opioid Use, Prescription Patterns, and Stewardship"
+35,Registry-Based Revision Risk and Implant Survivorship,Confirmed,Registry-Based Revision Risk and Implant Survivorship
+36,Periprosthetic Fracture Treatment and Fixation,Confirmed,Periprosthetic Fracture Treatment and Fixation
+37,Femoral Head Collapse and Osteonecrosis,Confirmed,Femoral Head Collapse and Osteonecrosis
+38,Implant Biofilm and Infection Biology,Confirmed,Implant Biofilm and Infection Biology
+39,Hip Dysplasia and Periacetabular Osteotomy,Confirmed,Hip Dysplasia and Periacetabular Osteotomy
+40,KOOS and Knee-Specific PROMs (Expectations),Confirmed,KOOS and Knee-Specific PROMs (Expectations)
+41,Online Research Quality and Surgical Training Surveys,Confirmed,Online Research Quality and Surgical Training Surveys
+42,Lower Extremity Deformity and Ligament Reconstruction,Confirmed,Lower Extremity Deformity and Ligament Reconstruction
+43,National Joint Replacement Registry Studies,Confirmed,National Joint Replacement Registry Studies
+44,30-Day Readmission and Postoperative Complications,Confirmed,30-Day Readmission and Postoperative Complications
+45,Direct Anterior Approach Total Hip Arthroplasty,Confirmed,Direct Anterior Approach Total Hip Arthroplasty
+46,Radiographic Implant Survival and Loosening Assessment,Confirmed,Radiographic Implant Survival and Loosening Assessment
+47,Ambulatory Surgery Center and Outpatient TJA,Confirmed,Ambulatory Surgery Center and Outpatient TJA
+48,Risk Assessment and Discharge Disposition Models,Confirmed,Risk Assessment and Discharge Disposition Models
+49,Polyethylene Wear and Osteolysis,Confirmed,Polyethylene Wear and Osteolysis
+50,Minimally Invasive Surgical Approaches in TJA,Confirmed,Minimally Invasive Surgical Approaches in TJA
+51,Soft Tissue Balancing and Ligament Release in TKA,Confirmed,Soft Tissue Balancing and Ligament Release in TKA
+52,Operating Room Air Contamination and Infection Prevention,Confirmed,Operating Room Air Contamination and Infection Prevention
+53,Spinopelvic Parameters and Cup Positioning in THA,Confirmed,Spinopelvic Parameters and Cup Positioning in THA
+54,Morbid Obesity and Joint Arthroplasty Complications,Confirmed,Morbid Obesity and Joint Arthroplasty Complications
+55,Cementless Stem Subsidence and Early Fixation,Confirmed,Cementless Stem Subsidence and Early Fixation
+56,Tibial Mechanical Axis and Varus-Valgus Alignment,Confirmed,Tibial Mechanical Axis and Varus-Valgus Alignment
+57,Ceramic Components and Periprosthetic Osteolysis,Confirmed,Ceramic Components and Periprosthetic Osteolysis
+58,Patient Satisfaction After Joint Arthroplasty,Confirmed,Patient Satisfaction After Joint Arthroplasty
+59,Extended Trochanteric Osteotomy and Periprosthetic Fracture,Confirmed,Extended Trochanteric Osteotomy and Periprosthetic Fracture
+60,Bariatric Surgery Prior to Joint Arthroplasty,Confirmed,Bariatric Surgery Prior to Joint Arthroplasty
+61,Clinical Trial Quality and Fragility Index in Arthroplasty,Confirmed,Clinical Trial Quality and Fragility Index in Arthroplasty
+62,Same-Day Discharge Protocols in Joint Arthroplasty,Confirmed,Same-Day Discharge Protocols in Joint Arthroplasty
+63,Knee Flexion and Range of Motion After TKA,Confirmed,Knee Flexion and Range of Motion After TKA
+64,Relative Value Units and Surgical Work in TJA,Confirmed,Relative Value Units and Surgical Work in TJA
+65,Medicare Reimbursement and Bundled Payments (Cms),Refined (adjudicated),Medicare Reimbursement and Bundled Payments (CMS)
+66,Blood Loss and Transfusion Management,Confirmed,Blood Loss and Transfusion Management
+67,Cardiac Complications and Medical Comorbidities After TJA,Confirmed,Cardiac Complications and Medical Comorbidities After TJA
+68,Arthroplasty Volume Trends and Future Projections,Confirmed,Arthroplasty Volume Trends and Future Projections
+69,Neurovascular Anatomy and Complication Avoidance,Confirmed,Neurovascular Anatomy and Complication Avoidance
+70,Femoral Stem Survival and Aseptic Loosening,Confirmed,Femoral Stem Survival and Aseptic Loosening
+71,Vancomycin Prophylaxis and Acute Kidney Injury Risk,Confirmed,Vancomycin Prophylaxis and Acute Kidney Injury Risk
+72,Deep Learning and Computer Vision in Arthroplasty,Confirmed,Deep Learning and Computer Vision in Arthroplasty
+73,Authorship Trends and Publication Patterns in Arthroplasty,Confirmed,Authorship Trends and Publication Patterns in Arthroplasty
+74,Postoperative Rehabilitation and Physical Therapy,Confirmed,Postoperative Rehabilitation and Physical Therapy
+75,Lower Extremity Alignment and Deformity Correction,Confirmed,Lower Extremity Alignment and Deformity Correction
+76,Blood Loss and Transfusion Management (Hgb),Confirmed,Blood Loss and Transfusion Management (Hgb)
+77,Bilateral Total Knee Arthroplasty and Simultaneous Staging,Confirmed,Bilateral Total Knee Arthroplasty and Simultaneous Staging
+78,Preoperative Opioid Use and Outcomes,Confirmed,Preoperative Opioid Use and Outcomes
+79,KOOS Outcomes After Simultaneous Bilateral TKA,Confirmed,KOOS Outcomes After Simultaneous Bilateral TKA
+80,"Opioid Use, Prescription Patterns, and Stewardship (Efficacy Safety)",Refined (adjudicated),"Opioid Use, Prescription Patterns, and Stewardship (Efficacy and Safety)"
+81,Knee Society Score and Clinical Outcome Reporting,Confirmed,Knee Society Score and Clinical Outcome Reporting
+82,Bibliometric Analysis of Joint Arthroplasty Literature,Confirmed,Bibliometric Analysis of Joint Arthroplasty Literature

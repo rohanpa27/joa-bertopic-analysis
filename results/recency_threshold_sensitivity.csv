@@ -1,0 +1,93 @@
+topic_id,clinical_label,n_documents_2005_2025,recent_10yr_share,class_at_50pct,class_at_60pct,class_at_70pct,class_at_75pct,class_at_80pct,class_at_85pct,class_at_90pct
+0,Tranexamic Acid and Perioperative Blood Management,345,0.6551,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+1,Acetabular Cup Orientation and Component Positioning,268,0.3657,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+2,Primary Total Hip Arthroplasty Technique and Outcomes,270,0.2037,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+3,Periprosthetic Joint Infection Diagnosis and Treatment,238,0.7941,Emerging,Emerging,Emerging,Emerging,Hot,Hot,Hot
+4,KOOS and Knee-Specific PROMs,224,0.8438,Emerging,Emerging,Emerging,Emerging,Emerging,Hot,Hot
+5,Periprosthetic Joint Infection Epidemiology and Risk Factors,233,0.7682,Emerging,Emerging,Emerging,Emerging,Hot,Hot,Hot
+6,Observational Study Reporting and Statistical Language,197,0.9289,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+7,Systematic Reviews and Meta-Analyses,174,0.7701,Emerging,Emerging,Emerging,Emerging,Hot,Hot,Hot
+8,"Knee Kinematics, Gap Balancing, and ROM",194,0.4536,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+9,Periprosthetic Joint Infection Diagnosis and Treatment (Synovial),183,0.8033,Emerging,Emerging,Emerging,Emerging,Emerging,Hot,Hot
+10,Aseptic Loosening of Hip and Knee Implants,137,0.781,Emerging,Emerging,Emerging,Emerging,Hot,Hot,Hot
+11,Aspirin vs Anticoagulant VTE Prophylaxis,128,0.6094,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+12,Ceramic-on-Ceramic Bearings and Fracture,136,0.2574,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+13,Case Reports of Unusual Arthroplasty Complications,125,0.0,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+14,THA Survivorship and Long-Term Aseptic Loosening,114,0.6754,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+15,Medicare Reimbursement and Bundled Payments,108,0.8241,Emerging,Emerging,Emerging,Emerging,Emerging,Hot,Hot
+16,Implant Retrieval and Corrosion Analysis,100,0.51,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+17,Metal Ion Release and Cobalt-Chromium Toxicity,89,0.6067,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+18,Polyethylene Liner Performance,87,0.023,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+19,"Patellar Resurfacing, PCL Management, and Knee Design",85,0.6353,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+20,Depression and Mental Health in Arthroplasty,81,0.6667,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+21,Adverse Local Tissue Reactions and Implant Corrosion,84,0.5,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+22,AAHKS Member Survey Studies,82,0.6951,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+23,Value-Based Care and Alternative Payment Models,76,0.8158,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+24,Biomechanical Testing and Implant Stability,74,0.473,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+25,Implant Survival Analysis and Competing Risk Methods,73,0.5205,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+26,Femoral Head Taper Corrosion and Modular Junction Failure,72,0.3611,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+27,Medicare Reimbursement and Bundled Payments (Costs),65,0.9077,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+28,Medicare Reimbursement and Bundled Payments (PROMs),53,0.8868,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Hot
+29,Machine Learning Prediction of Arthroplasty Outcomes,56,0.9286,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+30,Unicompartmental Knee Arthroplasty Functional Outcomes,57,0.5263,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+31,Hip-Spine Syndrome and Lumbar Fusion After THA,54,0.8333,Emerging,Emerging,Emerging,Emerging,Emerging,Hot,Hot
+32,Cost-Effectiveness of Joint Arthroplasty,59,0.7119,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+33,Osteolysis and Implant Loosening,58,0.0345,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+34,"Opioid Use, Prescription Patterns, and Stewardship",53,0.8491,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+35,Registry-Based Revision Risk and Implant Survivorship,44,0.9318,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+36,Periprosthetic Fracture Treatment and Fixation,49,0.9388,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+37,Femoral Head Collapse and Osteonecrosis,49,0.7551,Emerging,Emerging,Emerging,Emerging,Hot,Hot,Hot
+38,Implant Biofilm and Infection Biology,47,0.5319,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+39,Hip Dysplasia and Periacetabular Osteotomy,43,0.4186,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+40,KOOS and Knee-Specific PROMs (Expectations),45,0.8222,Emerging,Emerging,Emerging,Emerging,Emerging,Hot,Hot
+41,Online Research Quality and Surgical Training Surveys,40,0.875,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Hot
+42,Lower Extremity Deformity and Ligament Reconstruction,40,0.7,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+43,National Joint Replacement Registry Studies,41,0.7805,Emerging,Emerging,Emerging,Emerging,Hot,Hot,Hot
+44,30-Day Readmission and Postoperative Complications,42,0.6905,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+45,Direct Anterior Approach Total Hip Arthroplasty,36,0.9444,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+46,Radiographic Implant Survival and Loosening Assessment,38,0.9211,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+47,Ambulatory Surgery Center and Outpatient TJA,41,0.8537,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Hot
+48,Risk Assessment and Discharge Disposition Models,40,0.9,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+49,Polyethylene Wear and Osteolysis,39,0.3333,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+50,Minimally Invasive Surgical Approaches in TJA,38,0.1579,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+51,Soft Tissue Balancing and Ligament Release in TKA,38,0.5263,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+52,Operating Room Air Contamination and Infection Prevention,37,0.7568,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+53,Spinopelvic Parameters and Cup Positioning in THA,36,0.8333,Emerging,Emerging,Emerging,Emerging,Emerging,Hot,Hot
+54,Morbid Obesity and Joint Arthroplasty Complications,36,0.8889,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Hot
+55,Cementless Stem Subsidence and Early Fixation,36,0.8056,Emerging,Emerging,Emerging,Emerging,Emerging,Hot,Hot
+56,Tibial Mechanical Axis and Varus-Valgus Alignment,31,0.7097,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+57,Ceramic Components and Periprosthetic Osteolysis,34,0.1765,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+58,Patient Satisfaction After Joint Arthroplasty,33,0.697,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+59,Extended Trochanteric Osteotomy and Periprosthetic Fracture,32,0.0625,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+60,Bariatric Surgery Prior to Joint Arthroplasty,25,0.96,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+61,Clinical Trial Quality and Fragility Index in Arthroplasty,30,0.9667,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+62,Same-Day Discharge Protocols in Joint Arthroplasty,31,0.8065,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+63,Knee Flexion and Range of Motion After TKA,23,0.7826,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+64,Relative Value Units and Surgical Work in TJA,25,0.92,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+65,Medicare Reimbursement and Bundled Payments (CMS),23,0.7826,Emerging,Emerging,Emerging,Emerging,Hot,Hot,Hot
+66,Blood Loss and Transfusion Management,25,0.52,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+67,Cardiac Complications and Medical Comorbidities After TJA,24,0.8333,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+68,Arthroplasty Volume Trends and Future Projections,23,0.8696,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Hot
+69,Neurovascular Anatomy and Complication Avoidance,23,0.4783,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+70,Femoral Stem Survival and Aseptic Loosening,22,0.7273,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+71,Vancomycin Prophylaxis and Acute Kidney Injury Risk,18,0.7778,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+72,Deep Learning and Computer Vision in Arthroplasty,21,0.9524,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+73,Authorship Trends and Publication Patterns in Arthroplasty,22,0.7727,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+74,Postoperative Rehabilitation and Physical Therapy,22,0.8182,Emerging,Emerging,Emerging,Emerging,Emerging,Hot,Hot
+75,Lower Extremity Alignment and Deformity Correction,20,0.6,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+76,Blood Loss and Transfusion Management (Hgb),21,0.7143,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+77,Bilateral Total Knee Arthroplasty and Simultaneous Staging,19,0.8947,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Hot
+78,Preoperative Opioid Use and Outcomes,19,0.9474,Stable,Stable,Stable,Stable,Stable,Stable,Stable
+79,KOOS Outcomes After Simultaneous Bilateral TKA,20,0.9,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+80,"Opioid Use, Prescription Patterns, and Stewardship (Efficacy and Safety)",21,1.0,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging
+81,Knee Society Score and Clinical Outcome Reporting,20,0.1,Cold,Cold,Cold,Cold,Cold,Cold,Cold
+82,Bibliometric Analysis of Joint Arthroplasty Literature,19,0.8947,Emerging,Emerging,Emerging,Emerging,Emerging,Emerging,Hot
+,,,,,,,,,,
+Summary: topics with a significant positive slope classified Emerging / Hot,,,,,,,,,,
+threshold 50%,Emerging 36,Hot 0,,,,,,,,
+threshold 60%,Emerging 36,Hot 0,,,,,,,,
+threshold 70%,Emerging 36,Hot 0,,,,,,,,
+threshold 75%,Emerging 36,Hot 0,,,,,,,,
+threshold 80%,Emerging 29,Hot 7,,,,,,,,
+threshold 85%,Emerging 21,Hot 15,,,,,,,,
+threshold 90%,Emerging 14,Hot 22,,,,,,,,

@@ -1,0 +1,60 @@
+theme,signature_terms,config,n_matched_clusters,n_documents,slope_pct_per_year,p_value,direction
+Acetabular cup orientation,acetabular; cup; inclination; anteversion; component position,nn10_mcs15_seed42,6,631,-0.9704,4.09e-13,decrease
+Acetabular cup orientation,acetabular; cup; inclination; anteversion; component position,nn10_mcs20_seed2024,4,263,-0.2899,5.71e-07,decrease
+Acetabular cup orientation,acetabular; cup; inclination; anteversion; component position,nn10_mcs20_seed42,5,717,-1.2129,1.2e-11,decrease
+Acetabular cup orientation,acetabular; cup; inclination; anteversion; component position,nn10_mcs20_seed7,6,596,-1.0193,1.16e-11,decrease
+Acetabular cup orientation,acetabular; cup; inclination; anteversion; component position,nn15_mcs20_seed42,5,486,-0.7158,7.12e-09,decrease
+Acetabular cup orientation,acetabular; cup; inclination; anteversion; component position,nn5_mcs15_seed42,5,364,-0.472,4.53e-10,decrease
+Acetabular cup orientation,acetabular; cup; inclination; anteversion; component position,nn5_mcs20_seed42,5,450,-0.524,3.03e-10,decrease
+Acetabular cup orientation,acetabular; cup; inclination; anteversion; component position,nn5_mcs30_seed42,4,523,-0.736,8.51e-12,decrease
+Case reports of complications,case report; rare; unusual; we report; case of,nn10_mcs15_seed42,1,40,-0.1259,0.000531,decrease
+Case reports of complications,case report; rare; unusual; we report; case of,nn10_mcs20_seed2024,1,119,-0.3332,3.61e-05,decrease
+Case reports of complications,case report; rare; unusual; we report; case of,nn10_mcs20_seed42,1,125,-0.3472,2.51e-05,decrease
+Case reports of complications,case report; rare; unusual; we report; case of,nn10_mcs20_seed7,1,120,-0.3337,3.25e-05,decrease
+Case reports of complications,case report; rare; unusual; we report; case of,nn5_mcs20_seed42,1,47,-0.119,0.00128,decrease
+Case reports of complications,case report; rare; unusual; we report; case of,nn5_mcs30_seed42,1,199,-0.5202,4.17e-05,decrease
+Ceramic bearings,ceramic; alumina; zirconia; squeaking,nn10_mcs15_seed42,1,31,-0.0806,0.00111,decrease
+Ceramic bearings,ceramic; alumina; zirconia; squeaking,nn10_mcs20_seed2024,3,118,-0.2067,2.94e-05,decrease
+Ceramic bearings,ceramic; alumina; zirconia; squeaking,nn15_mcs20_seed42,1,34,-0.0567,6.94e-06,decrease
+Ceramic bearings,ceramic; alumina; zirconia; squeaking,nn5_mcs15_seed42,2,58,-0.1206,0.00113,decrease
+Ceramic bearings,ceramic; alumina; zirconia; squeaking,nn5_mcs20_seed42,1,41,-0.1002,0.000996,decrease
+Machine learning / AI,machine learning; deep learning; neural; artificial intelligence; algorithm; prediction model,nn10_mcs15_seed42,2,77,0.0904,8.83e-05,increase
+Machine learning / AI,machine learning; deep learning; neural; artificial intelligence; algorithm; prediction model,nn10_mcs20_seed2024,3,134,0.105,0.00105,increase
+Machine learning / AI,machine learning; deep learning; neural; artificial intelligence; algorithm; prediction model,nn10_mcs20_seed42,2,77,0.0904,8.83e-05,increase
+Machine learning / AI,machine learning; deep learning; neural; artificial intelligence; algorithm; prediction model,nn10_mcs20_seed7,2,90,0.0791,0.000136,increase
+Machine learning / AI,machine learning; deep learning; neural; artificial intelligence; algorithm; prediction model,nn15_mcs20_seed42,3,100,0.0977,0.00024,increase
+Machine learning / AI,machine learning; deep learning; neural; artificial intelligence; algorithm; prediction model,nn5_mcs15_seed42,3,131,0.1328,0.000114,increase
+Machine learning / AI,machine learning; deep learning; neural; artificial intelligence; algorithm; prediction model,nn5_mcs20_seed42,3,131,0.1328,0.000114,increase
+Machine learning / AI,machine learning; deep learning; neural; artificial intelligence; algorithm; prediction model,nn5_mcs30_seed42,2,86,0.0823,2.73e-05,increase
+Patient-reported outcome measures,koos; prom; womac; promis; patient-reported; mcid; hoos,nn10_mcs15_seed42,3,158,0.1454,3.29e-06,increase
+Patient-reported outcome measures,koos; prom; womac; promis; patient-reported; mcid; hoos,nn10_mcs20_seed2024,2,162,0.1556,6.22e-08,increase
+Patient-reported outcome measures,koos; prom; womac; promis; patient-reported; mcid; hoos,nn10_mcs20_seed42,2,269,0.2296,1.85e-08,increase
+Patient-reported outcome measures,koos; prom; womac; promis; patient-reported; mcid; hoos,nn10_mcs20_seed7,1,261,0.2257,1.96e-09,increase
+Patient-reported outcome measures,koos; prom; womac; promis; patient-reported; mcid; hoos,nn15_mcs20_seed42,1,206,0.1917,1.85e-08,increase
+Patient-reported outcome measures,koos; prom; womac; promis; patient-reported; mcid; hoos,nn5_mcs15_seed42,5,134,0.1229,3.15e-06,increase
+Patient-reported outcome measures,koos; prom; womac; promis; patient-reported; mcid; hoos,nn5_mcs20_seed42,1,310,0.2716,6.56e-10,increase
+Patient-reported outcome measures,koos; prom; womac; promis; patient-reported; mcid; hoos,nn5_mcs30_seed42,1,350,0.2926,8.16e-10,increase
+Periprosthetic joint infection,infection; pji; periprosthetic joint; septic; synovial; debridement; spacer,nn10_mcs15_seed42,8,821,0.3859,1.31e-07,increase
+Periprosthetic joint infection,infection; pji; periprosthetic joint; septic; synovial; debridement; spacer,nn10_mcs20_seed2024,8,843,0.3513,1.08e-06,increase
+Periprosthetic joint infection,infection; pji; periprosthetic joint; septic; synovial; debridement; spacer,nn10_mcs20_seed42,5,736,0.4397,1.76e-07,increase
+Periprosthetic joint infection,infection; pji; periprosthetic joint; septic; synovial; debridement; spacer,nn10_mcs20_seed7,7,756,0.4662,2.87e-08,increase
+Periprosthetic joint infection,infection; pji; periprosthetic joint; septic; synovial; debridement; spacer,nn15_mcs20_seed42,6,666,0.4141,3.56e-07,increase
+Periprosthetic joint infection,infection; pji; periprosthetic joint; septic; synovial; debridement; spacer,nn5_mcs15_seed42,13,822,0.2414,0.000854,increase
+Periprosthetic joint infection,infection; pji; periprosthetic joint; septic; synovial; debridement; spacer,nn5_mcs20_seed42,11,1099,0.4669,2.16e-06,increase
+Periprosthetic joint infection,infection; pji; periprosthetic joint; septic; synovial; debridement; spacer,nn5_mcs30_seed42,5,980,0.6441,1.6e-08,increase
+Polyethylene wear / osteolysis,polyethylene; wear; osteolysis; liner; crosslinked; hxlpe,nn10_mcs15_seed42,6,280,-0.4903,2.36e-10,decrease
+Polyethylene wear / osteolysis,polyethylene; wear; osteolysis; liner; crosslinked; hxlpe,nn10_mcs20_seed2024,4,380,-0.5266,1.48e-11,decrease
+Polyethylene wear / osteolysis,polyethylene; wear; osteolysis; liner; crosslinked; hxlpe,nn10_mcs20_seed42,5,318,-0.595,3.61e-09,decrease
+Polyethylene wear / osteolysis,polyethylene; wear; osteolysis; liner; crosslinked; hxlpe,nn10_mcs20_seed7,5,452,-0.7205,1.27e-10,decrease
+Polyethylene wear / osteolysis,polyethylene; wear; osteolysis; liner; crosslinked; hxlpe,nn15_mcs20_seed42,4,413,-0.5846,4.35e-09,decrease
+Polyethylene wear / osteolysis,polyethylene; wear; osteolysis; liner; crosslinked; hxlpe,nn5_mcs15_seed42,5,467,-0.6575,1.51e-09,decrease
+Polyethylene wear / osteolysis,polyethylene; wear; osteolysis; liner; crosslinked; hxlpe,nn5_mcs20_seed42,4,468,-0.6601,2.11e-11,decrease
+Polyethylene wear / osteolysis,polyethylene; wear; osteolysis; liner; crosslinked; hxlpe,nn5_mcs30_seed42,4,626,-1.0802,3.27e-08,decrease
+Tranexamic acid / blood management,tranexamic; txa; transfusion; blood loss; hemoglobin,nn10_mcs15_seed42,5,128,-0.0206,0.58,no significant change
+Tranexamic acid / blood management,tranexamic; txa; transfusion; blood loss; hemoglobin,nn10_mcs20_seed2024,3,393,0.0632,0.258,no significant change
+Tranexamic acid / blood management,tranexamic; txa; transfusion; blood loss; hemoglobin,nn10_mcs20_seed42,3,391,0.0378,0.482,no significant change
+Tranexamic acid / blood management,tranexamic; txa; transfusion; blood loss; hemoglobin,nn10_mcs20_seed7,3,131,-0.0308,0.393,no significant change
+Tranexamic acid / blood management,tranexamic; txa; transfusion; blood loss; hemoglobin,nn15_mcs20_seed42,3,380,0.0446,0.413,no significant change
+Tranexamic acid / blood management,tranexamic; txa; transfusion; blood loss; hemoglobin,nn5_mcs15_seed42,4,118,-0.0286,0.393,no significant change
+Tranexamic acid / blood management,tranexamic; txa; transfusion; blood loss; hemoglobin,nn5_mcs20_seed42,2,85,-0.0213,0.511,no significant change
+Tranexamic acid / blood management,tranexamic; txa; transfusion; blood loss; hemoglobin,nn5_mcs30_seed42,1,476,0.054,0.277,no significant change
